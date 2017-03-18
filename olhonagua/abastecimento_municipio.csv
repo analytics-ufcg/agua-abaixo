@@ -6,19 +6,19 @@ BELO MONTE,2700904,AL,BATALHA,SERTÃO ALAGOANO,ALAGOAS,Belo Monte,Não_monitorad
 CACIMBINHAS,2701209,AL,PALMEIRA DOS ÍNDIOS,AGRESTE ALAGOANO,ALAGOAS,Cacimbinhas,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Bacia Leiteira
 CANAPI,2701605,AL,SERRANA DO SERTÃO ALAGOANO,SERTÃO ALAGOANO,ALAGOAS,Canapi,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Alto do Sertão
 CARNEIROS,2701803,AL,SANTANA DO IPANEMA,SERTÃO ALAGOANO,ALAGOAS,Carneiros,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Bacia Leiteira
-COITÉ DO NÓIA,2702009,AL,ARAPIRACA,AGRESTE ALAGOANO,ALAGOAS,Coité do Nóia,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Agreste 
-CRAÍBAS,2702355,AL,ARAPIRACA,AGRESTE ALAGOANO,ALAGOAS,Craíbas,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Agreste 
+COITÉ DO NÓIA,2702009,AL,ARAPIRACA,AGRESTE ALAGOANO,ALAGOAS,Coité do Nóia,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Agreste
+CRAÍBAS,2702355,AL,ARAPIRACA,AGRESTE ALAGOANO,ALAGOAS,Craíbas,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Agreste
 DELMIRO GOUVEIA,2702405,AL,ALAGOANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO ALAGOANO,ALAGOAS,Delmiro Gouveia,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Alto do Sertão
 DOIS RIACHOS,2702504,AL,SANTANA DO IPANEMA,SERTÃO ALAGOANO,ALAGOAS,Dois Riachos,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Bacia Leiteira
 ESTRELA DE ALAGOAS,2702553,AL,PALMEIRA DOS ÍNDIOS,AGRESTE ALAGOANO,ALAGOAS,Estrela de Alagoas,Não_monitorado,Barragem Limeira,Superficial,Integrado,Integrado Carangueija
 ESTRELA DE ALAGOAS,2702553,AL,PALMEIRA DOS ÍNDIOS,AGRESTE ALAGOANO,ALAGOAS,Estrela de Alagoas,Não_monitorado,Açude Carangueja,Superficial,Integrado,Integrado Carangueija
 ESTRELA DE ALAGOAS,2702553,AL,PALMEIRA DOS ÍNDIOS,AGRESTE ALAGOANO,ALAGOAS,Estrela de Alagoas,Não_monitorado,Barragem Caçambas,Superficial,Integrado,Integrado Carangueija
-GIRAU DO PONCIANO,2702900,AL,ARAPIRACA,AGRESTE ALAGOANO,ALAGOAS,Girau do Ponciano,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Agreste 
-IGACI,2703106,AL,PALMEIRA DOS ÍNDIOS,AGRESTE ALAGOANO,ALAGOAS,Igaci,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Agreste 
+GIRAU DO PONCIANO,2702900,AL,ARAPIRACA,AGRESTE ALAGOANO,ALAGOAS,Girau do Ponciano,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Agreste
+IGACI,2703106,AL,PALMEIRA DOS ÍNDIOS,AGRESTE ALAGOANO,ALAGOAS,Igaci,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Agreste
 INHAPI,2703304,AL,SERRANA DO SERTÃO ALAGOANO,SERTÃO ALAGOANO,ALAGOAS,Inhapi,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Alto do Sertão
 JACARÉ DOS HOMENS,2703403,AL,BATALHA,SERTÃO ALAGOANO,ALAGOAS,Jacaré dos Homens,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Bacia Leiteira
 JARAMATAIA,2703700,AL,BATALHA,SERTÃO ALAGOANO,ALAGOAS,Jaramataia,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Bacia Leiteira
-LAGOA DA CANOA,2704104,AL,ARAPIRACA,AGRESTE ALAGOANO,ALAGOAS,Lagoa da Canoa,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Agreste 
+LAGOA DA CANOA,2704104,AL,ARAPIRACA,AGRESTE ALAGOANO,ALAGOAS,Lagoa da Canoa,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Agreste
 MAJOR ISIDORO,2704401,AL,BATALHA,SERTÃO ALAGOANO,ALAGOAS,Major Isidoro,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Bacia Leiteira
 MARAVILHA,2704609,AL,SANTANA DO IPANEMA,SERTÃO ALAGOANO,ALAGOAS,Maravilha,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Bacia Leiteira
 MATA GRANDE,2705002,AL,SERRANA DO SERTÃO ALAGOANO,SERTÃO ALAGOANO,ALAGOAS,Mata Grande,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Alto do Sertão
@@ -35,15 +35,15 @@ PALESTINA,2706208,AL,SANTANA DO IPANEMA,SERTÃO ALAGOANO,ALAGOAS,Palestina,Não_
 PALMEIRA DOS ÍNDIOS,2706307,AL,PALMEIRA DOS ÍNDIOS,AGRESTE ALAGOANO,ALAGOAS,Palmeira dos Índios,Não_monitorado,Açude Carangueja,Superficial,Integrado,Integrado Carangueija
 PALMEIRA DOS ÍNDIOS,2706307,AL,PALMEIRA DOS ÍNDIOS,AGRESTE ALAGOANO,ALAGOAS,Palmeira dos Índios,Não_monitorado,Barragem Caçambas,Superficial,Integrado,Integrado Carangueija
 PALMEIRA DOS ÍNDIOS,2706307,AL,PALMEIRA DOS ÍNDIOS,AGRESTE ALAGOANO,ALAGOAS,Palmeira dos Índios,Não_monitorado,Barragem Limeira,Superficial,Integrado,Integrado Carangueija
-PÃO DE AÇÚCAR,2706406,AL,SANTANA DO IPANEMA,SERTÃO ALAGOANO,ALAGOAS,Pão de Açúcar,Não_monitorado,Rio São Francisco,Superficial,Isolado,Pão de Açúcar 
+PÃO DE AÇÚCAR,2706406,AL,SANTANA DO IPANEMA,SERTÃO ALAGOANO,ALAGOAS,Pão de Açúcar,Não_monitorado,Rio São Francisco,Superficial,Isolado,Pão de Açúcar
 PARICONHA,2706422,AL,SERRANA DO SERTÃO ALAGOANO,SERTÃO ALAGOANO,ALAGOAS,Pariconha,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Alto do Sertão
-PIRANHAS,2707107,AL,ALAGOANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO ALAGOANO,ALAGOAS,Piranhas,Não_monitorado,Barragem do Xingó ,Superficial,Isolado,Piranhas 
+PIRANHAS,2707107,AL,ALAGOANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO ALAGOANO,ALAGOAS,Piranhas,Não_monitorado,Barragem do Xingó,Superficial,Isolado,Piranhas
 POÇO DAS TRINCHEIRAS,2707206,AL,SANTANA DO IPANEMA,SERTÃO ALAGOANO,ALAGOAS,Poço das Trincheiras,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Bacia Leiteira
-QUEBRANGULO,2707602,AL,PALMEIRA DOS ÍNDIOS,AGRESTE ALAGOANO,ALAGOAS,Quebrangulo,Não_monitorado,Açude Carangueja,Superficial,Isolado,Quebrangulo 
+QUEBRANGULO,2707602,AL,PALMEIRA DOS ÍNDIOS,AGRESTE ALAGOANO,ALAGOAS,Quebrangulo,Não_monitorado,Açude Carangueja,Superficial,Isolado,Quebrangulo
 SANTANA DO IPANEMA,2708006,AL,SANTANA DO IPANEMA,SERTÃO ALAGOANO,ALAGOAS,Santana do Ipanema,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Bacia Leiteira
 SÃO JOSÉ DA TAPERA,2708402,AL,SANTANA DO IPANEMA,SERTÃO ALAGOANO,ALAGOAS,São José da Tapera,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Bacia Leiteira
 SENADOR RUI PALMEIRA,2708956,AL,SANTANA DO IPANEMA,SERTÃO ALAGOANO,ALAGOAS,Senador Rui Palmeira,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Bacia Leiteira
-TRAIPU,2709202,AL,TRAIPU,AGRESTE ALAGOANO,ALAGOAS,Traipu,Não_monitorado,Rio São Francisco,Superficial,Isolado,Traipu 
+TRAIPU,2709202,AL,TRAIPU,AGRESTE ALAGOANO,ALAGOAS,Traipu,Não_monitorado,Rio São Francisco,Superficial,Isolado,Traipu
 ABAÍRA,2900108,BA,SEABRA,CENTRO SUL BAIANO,BAHIA,Abaíra,Não_monitorado,Nascente Brejo da Fama,Subterrâneo,Isolado,Isolado Abaíra
 ABARÉ,2900207,BA,PAULO AFONSO,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Abaré,Não_monitorado,Rio São Francisco,Superficial,Isolado,Isolado Abaré
 ADUSTINA,2900355,BA,RIBEIRA DO POMBAL,NORDESTE BAIANO,BAHIA,Adustina,Não_monitorado,Poços de Fátima e Paripiranga,Subterrâneo,Integrado,Integrado Fátima
@@ -79,7 +79,7 @@ BOA VISTA DO TUPIM,2903805,BA,ITABERABA,CENTRO NORTE BAIANO,BAHIA,Boa Vista do T
 BOM JESUS DA LAPA,2903904,BA,BOM JESUS DA LAPA,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Bom Jesus da Lapa,Não_monitorado,Rio São Francisco,Superficial,Isolado,Isolado Bom Jesus da Lapa
 BOM JESUS DA SERRA,2903953,BA,VITÓRIA DA CONQUISTA,CENTRO SUL BAIANO,BAHIA,Bom Jesus da Serra,12284,Açude Morrinhos - Rio das Mulheres,Superficial,Integrado,Integrado Poções
 BONINAL,2904001,BA,SEABRA,CENTRO SUL BAIANO,BAHIA,Boninal,Não_monitorado,Poços de Boninal,Subterrâneo,Isolado,Isolado Boninal
-BONITO,2904050,BA,SEABRA,CENTRO SUL BAIANO,BAHIA,Bonito,Não_monitorado,Riacho Ingazeira ,Superficial,Isolado,Isolado Bonito - BA
+BONITO,2904050,BA,SEABRA,CENTRO SUL BAIANO,BAHIA,Bonito,Não_monitorado,Riacho Ingazeira,Superficial,Isolado,Isolado Bonito - BA
 BONITO,2904050,BA,SEABRA,CENTRO SUL BAIANO,BAHIA,Bonito,Não_monitorado,Riacho dos Patis,Superficial,Isolado,Isolado Bonito - BA
 BOQUIRA,2904100,BA,BOQUIRA,CENTRO SUL BAIANO,BAHIA,Boquira,Não_monitorado,3 Poços de Boquira,Subterrâneo,Isolado,Isolado Boquira 1
 BOQUIRA,2904100,BA,BOQUIRA,CENTRO SUL BAIANO,BAHIA,Boquira,Não_monitorado,Nascente da Mata,Subterrâneo,Isolado,Isolado Boquira 1
@@ -102,11 +102,11 @@ CAÉM,2905107,BA,JACOBINA,CENTRO NORTE BAIANO,BAHIA,Caém,Não_monitorado,Rio Ca
 CAETANOS,2905156,BA,VITÓRIA DA CONQUISTA,CENTRO SUL BAIANO,BAHIA,Caetanos,Não_monitorado,Barragem Barreirinho,Superficial,Isolado,Isolado Caetanos
 CAETITÉ,2905206,BA,GUANAMBI,CENTRO SUL BAIANO,BAHIA,Caetité,Não_monitorado,Rio Moita dos Porcos,Superficial,Isolado,Isolado Caetité
 CAETITÉ,2905206,BA,GUANAMBI,CENTRO SUL BAIANO,BAHIA,Caetité,Não_monitorado,Rio Santarem,Superficial,Isolado,Isolado Caetité
-CAETITÉ,2905206,BA,GUANAMBI,CENTRO SUL BAIANO,BAHIA,Caetité,Não_monitorado,Riacho Passagem das Pedras ,Superficial,Isolado,Isolado Caetité
+CAETITÉ,2905206,BA,GUANAMBI,CENTRO SUL BAIANO,BAHIA,Caetité,Não_monitorado,Riacho Passagem das Pedras,Superficial,Isolado,Isolado Caetité
 CAETITÉ,2905206,BA,GUANAMBI,CENTRO SUL BAIANO,BAHIA,Caetité,Não_monitorado,5 poços Caetité,Subterrâneo,Isolado,Isolado Caetité
 CAFARNAUM,2905305,BA,IRECĘ,CENTRO NORTE BAIANO,BAHIA,Cafarnaum,Não_monitorado,Rio Veredas,Superficial,Isolado,Isolado Cafarnaum
 CAFARNAUM,2905305,BA,IRECĘ,CENTRO NORTE BAIANO,BAHIA,Cafarnaum,Não_monitorado,Poço de Cafarnaum,Subterrâneo,Isolado,Isolado Cafarnaum
-CALDEIRÃO GRANDE,2905503,BA,JACOBINA,CENTRO NORTE BAIANO,BAHIA,Caldeirão Grande,12354,Barragem de Ponto Novo (Rio Itapicuru-açu),Superficial,Integrado,Integrado Ponto Novo 
+CALDEIRÃO GRANDE,2905503,BA,JACOBINA,CENTRO NORTE BAIANO,BAHIA,Caldeirão Grande,12354,Barragem de Ponto Novo (Rio Itapicuru-açu),Superficial,Integrado,Integrado Ponto Novo
 CAMPO ALEGRE DE LOURDES,2905909,BA,JUAZEIRO,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Campo Alegre de Lourdes,Não_monitorado,Poços,Subterrâneo,Isolado,Isolado Campo Alegre de Lourdes
 CAMPO FORMOSO,2906006,BA,SENHOR DO BONFIM,CENTRO NORTE BAIANO,BAHIA,Campo Formoso,12009,Barragem do Aipim,Superficial,Integrado,Integrado Senhor do Bonfim - Campo Formoso
 CAMPO FORMOSO,2906006,BA,SENHOR DO BONFIM,CENTRO NORTE BAIANO,BAHIA,Campo Formoso,Não_monitorado,Rios Campo Formoso I e II,Superficial,Integrado,Integrado Senhor do Bonfim - Campo Formoso
@@ -118,7 +118,7 @@ CANSANÇÃO,2906808,BA,EUCLIDES DA CUNHA,NORDESTE BAIANO,BAHIA,Cansanção,Não_
 CANUDOS,2906824,BA,EUCLIDES DA CUNHA,NORDESTE BAIANO,BAHIA,Canudos,12129,Barragem de Cocorobó,Superficial,Isolado,Isolado Canudos
 CAPELA DO ALTO ALEGRE,2906857,BA,SERRINHA,NORDESTE BAIANO,BAHIA,Capela do Alto Alegre,12411,Barragem São José Jacuípe (Rio Jacuípe),Superficial,Integrado,Integrado Adutora do Sisal
 CAPIM GROSSO,2906873,BA,JACOBINA,CENTRO NORTE BAIANO,BAHIA,Capim Grosso,12411,Barragem São José Jacuípe (Rio Jacuípe),Superficial,Integrado,Integrado Adutora do Sisal
-CARAÍBAS,2906899,BA,BRUMADO,CENTRO SUL BAIANO,BAHIA,Caraíbas,Não_monitorado,Barragem Rio Gavião ,Superficial,Isolado,Isolado Caraíbas
+CARAÍBAS,2906899,BA,BRUMADO,CENTRO SUL BAIANO,BAHIA,Caraíbas,Não_monitorado,Barragem Rio Gavião,Superficial,Isolado,Isolado Caraíbas
 CARINHANHA,2907103,BA,BOM JESUS DA LAPA,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Carinhanha,Não_monitorado,Rio São Francisco,Superficial,Isolado,Isolado Carinhanha
 CASA NOVA,2907202,BA,JUAZEIRO,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Casa Nova,Não_monitorado,Lago Sobradinho,Superficial,Isolado,Isolado Casa Nova
 CASTRO ALVES,2907301,BA,SANTO ANTÔNIO DE JESUS,METROPOLITANA DE SALVADOR,BAHIA,Castro Alves,Não_monitorado,Rio Paraguaçu,Superficial,Integrado,Integrado Milagres
@@ -144,7 +144,7 @@ EUCLIDES DA CUNHA,2910701,BA,EUCLIDES DA CUNHA,NORDESTE BAIANO,BAHIA,Euclides da
 FÁTIMA,2910750,BA,RIBEIRA DO POMBAL,NORDESTE BAIANO,BAHIA,Fátima,Não_monitorado,Poços de Fátima e Paripiranga,Subterrâneo,Integrado,Integrado Fátima
 FEIRA DA MATA,2910776,BA,BOM JESUS DA LAPA,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Feira da Mata,Não_monitorado,Rio Carinhanha - BA,Superficial,Isolado,Isolado Feira da Mata
 FEIRA DE SANTANA,2910800,BA,FEIRA DE SANTANA,CENTRO NORTE BAIANO,BAHIA,Feira de Santana,795,Barragem Pedra do Cavalo,Superficial,Integrado,Integrado Feira de Santana
-FILADÉLFIA,2910859,BA,SENHOR DO BONFIM,CENTRO NORTE BAIANO,BAHIA,Filadélfia,12354,Barragem de Ponto Novo (Rio Itapicuru-açu),Superficial,Integrado,Integrado Ponto Novo 
+FILADÉLFIA,2910859,BA,SENHOR DO BONFIM,CENTRO NORTE BAIANO,BAHIA,Filadélfia,12354,Barragem de Ponto Novo (Rio Itapicuru-açu),Superficial,Integrado,Integrado Ponto Novo
 GAVIÃO,2911253,BA,SERRINHA,NORDESTE BAIANO,BAHIA,Gavião,12411,Barragem São José Jacuípe (Rio Jacuípe),Superficial,Integrado,Integrado Adutora do Sisal
 GENTIO DO OURO,2911303,BA,IRECĘ,CENTRO NORTE BAIANO,BAHIA,Gentio do Ouro,Não_monitorado,1 Poço Gentio de Ouro,Subterrâneo,Isolado,Isolado Gentio do Ouro
 GENTIO DO OURO,2911303,BA,IRECĘ,CENTRO NORTE BAIANO,BAHIA,Gentio do Ouro,Não_monitorado,Rio Fundo Manso,Superficial,Isolado,Isolado Gentio do Ouro
@@ -177,7 +177,7 @@ IRECĘ,2914604,BA,IRECĘ,CENTRO NORTE BAIANO,BAHIA,Irecê,12279,Barragem de Miro
 ITABERABA,2914703,BA,ITABERABA,CENTRO NORTE BAIANO,BAHIA,Itaberaba,Não_monitorado,Rio Paraguaçu,Superficial,Integrado,Integrado Itaberaba
 ITAETÉ,2915007,BA,SEABRA,CENTRO SUL BAIANO,BAHIA,Itaeté,Não_monitorado,Rio Paraguaçu,Superficial,Isolado,Isolado Itaeté
 ITAGI,2915106,BA,JEQUIÉ,CENTRO SUL BAIANO,BAHIA,Itagi,Não_monitorado,Rio das Pedras,Superficial,Isolado,Isolado Itagi
-ITAGUAÇU DA BAHIA,2915353,BA,BARRA,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Itaguaçu da Bahia,Não_monitorado,Nascente Olho d'Água ,Subterrâneo,Isolado,Isolado Itaguaçu da Bahia
+ITAGUAÇU DA BAHIA,2915353,BA,BARRA,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Itaguaçu da Bahia,Não_monitorado,Nascente Olho d'Água,Subterrâneo,Isolado,Isolado Itaguaçu da Bahia
 ITAMBÉ,2915809,BA,ITAPETINGA,CENTRO SUL BAIANO,BAHIA,Itambé,Não_monitorado,Rio Pardo - BA,Superficial,Isolado,Isolado Itambé
 ITAPETINGA,2916401,BA,ITAPETINGA,CENTRO SUL BAIANO,BAHIA,Itapetinga,Não_monitorado,Rio Catulé,Superficial,Isolado,Isolado Itapetinga
 ITAPICURU,2916500,BA,RIBEIRA DO POMBAL,NORDESTE BAIANO,BAHIA,Itapicuru,Não_monitorado,Poço de Itapicuru,Subterrâneo,Isolado,Isolado Itapicuru
@@ -193,7 +193,7 @@ ITUAÇU,2917201,BA,BRUMADO,CENTRO SUL BAIANO,BAHIA,Ituaçu,Não_monitorado,Rio M
 IUIÚ,2917334,BA,GUANAMBI,CENTRO SUL BAIANO,BAHIA,Iuiú,Não_monitorado,5 poços Iuiú,Subterrâneo,Isolado,Isolado Iuiú
 JACARACI,2917409,BA,GUANAMBI,CENTRO SUL BAIANO,BAHIA,Jacaraci,Não_monitorado,Riacho Capão,Superficial,Isolado,Isolado Jacaraci
 JACARACI,2917409,BA,GUANAMBI,CENTRO SUL BAIANO,BAHIA,Jacaraci,Não_monitorado,2 poços Jacaraci,Subterrâneo,Isolado,Isolado Jacaraci
-JACOBINA,2917508,BA,JACOBINA,CENTRO NORTE BAIANO,BAHIA,Jacobina,Não_monitorado,Rio do Ouro (ou Curralinho) ,Superficial,Isolado,Isolado Jacobina 1
+JACOBINA,2917508,BA,JACOBINA,CENTRO NORTE BAIANO,BAHIA,Jacobina,Não_monitorado,Rio do Ouro (ou Curralinho),Superficial,Isolado,Isolado Jacobina 1
 JACOBINA,2917508,BA,JACOBINA,CENTRO NORTE BAIANO,BAHIA,Jacobina,Não_monitorado,Barragem Rio Itapicuruzinho,Superficial,Isolado,Isolado Jacobina 1
 JACOBINA,2917508,BA,JACOBINA,CENTRO NORTE BAIANO,BAHIA,Jacobina,Não_monitorado,Barragem do Cuia,Superficial,Isolado,Isolado Jacobina 2
 JACOBINA,2917508,BA,JACOBINA,CENTRO NORTE BAIANO,BAHIA,Jacobina,Não_monitorado,Barragem Rio Itapicuruzinho,Superficial,Isolado,Isolado Jacobina 2
@@ -203,7 +203,7 @@ JAGUAQUARA,2917607,BA,JEQUIÉ,CENTRO SUL BAIANO,BAHIA,Jaguaquara,Não_monitorado
 JAGUARARI,2917706,BA,SENHOR DO BONFIM,CENTRO NORTE BAIANO,BAHIA,Jaguarari,Não_monitorado,2 Poços de Jaguarari,Subterrâneo,Isolado,Isolado Jaguarari
 JAGUARARI,2917706,BA,SENHOR DO BONFIM,CENTRO NORTE BAIANO,BAHIA,Jaguarari,Não_monitorado,Rio Jaguarari (Bendo),Superficial,Isolado,Isolado Jaguarari
 JAGUARARI,2917706,BA,SENHOR DO BONFIM,CENTRO NORTE BAIANO,BAHIA,Jaguarari,Não_monitorado,Rio Jaguarari (Fonte Velha),Superficial,Isolado,Isolado Jaguarari
-JEQUIÉ,2918001,BA,JEQUIÉ,CENTRO SUL BAIANO,BAHIA,Jequié,Não_monitorado,Rio Preto do Crisciúma ,Superficial,Isolado,Isolado Jequié 1
+JEQUIÉ,2918001,BA,JEQUIÉ,CENTRO SUL BAIANO,BAHIA,Jequié,Não_monitorado,Rio Preto do Crisciúma,Superficial,Isolado,Isolado Jequié 1
 JEQUIÉ,2918001,BA,JEQUIÉ,CENTRO SUL BAIANO,BAHIA,Jequié,12320,Barragem Pedra (Rio de Contas),Superficial,Isolado,Isolado Jequié 2
 JEREMOABO,2918100,BA,JEREMOABO,NORDESTE BAIANO,BAHIA,Jeremoabo,Não_monitorado,Poço de Jeremoabo,Subterrâneo,Isolado,Isolado Jeremoabo 1
 JEREMOABO,2918100,BA,JEREMOABO,NORDESTE BAIANO,BAHIA,Jeremoabo,Não_monitorado,Rio Vermelho - BA,Superficial,Isolado,Isolado Jeremoabo 2
@@ -272,9 +272,9 @@ PALMEIRAS,2923506,BA,SEABRA,CENTRO SUL BAIANO,BAHIA,Palmeiras,Não_monitorado,Ri
 PARAMIRIM,2923605,BA,LIVRAMENTO DO BRUMADO,CENTRO SUL BAIANO,BAHIA,Paramirim,12491,Açude Zabumbão,Superficial,Integrado,Integrado Paramirim
 PARATINGA,2923704,BA,BOM JESUS DA LAPA,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Paratinga,Não_monitorado,Rio São Francisco,Superficial,Isolado,Isolado Paratinga
 PARIPIRANGA,2923803,BA,RIBEIRA DO POMBAL,NORDESTE BAIANO,BAHIA,Paripiranga,Não_monitorado,Poços de Fátima e Paripiranga,Subterrâneo,Integrado,Integrado Fátima
-PAULO AFONSO,2924009,BA,PAULO AFONSO,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Paulo Afonso,Não_monitorado,Barragem PA IV (Rio São Francisco) ,Superficial,Integrado,Integrado Paulo Afonso IV
-PAULO AFONSO,2924009,BA,PAULO AFONSO,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Paulo Afonso,Não_monitorado,Barragem Moxotó (Rio São Francisco) ,Superficial,Isolado,Isolado Paulo Afonso
-PAULO AFONSO,2924009,BA,PAULO AFONSO,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Paulo Afonso,Não_monitorado,Barragem Moxotó (Rio São Francisco) ,Superficial,Isolado,Isolado Paulo Afonso/Moxotó
+PAULO AFONSO,2924009,BA,PAULO AFONSO,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Paulo Afonso,Não_monitorado,Barragem PA IV (Rio São Francisco),Superficial,Integrado,Integrado Paulo Afonso IV
+PAULO AFONSO,2924009,BA,PAULO AFONSO,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Paulo Afonso,Não_monitorado,Barragem Moxotó (Rio São Francisco),Superficial,Isolado,Isolado Paulo Afonso
+PAULO AFONSO,2924009,BA,PAULO AFONSO,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Paulo Afonso,Não_monitorado,Barragem Moxotó (Rio São Francisco),Superficial,Isolado,Isolado Paulo Afonso/Moxotó
 PÉ DE SERRA,2924058,BA,SERRINHA,NORDESTE BAIANO,BAHIA,Pé de Serra,12411,Barragem São José Jacuípe (Rio Jacuípe),Superficial,Integrado,Integrado Adutora do Sisal
 PEDRO ALEXANDRE,2924207,BA,JEREMOABO,NORDESTE BAIANO,BAHIA,Pedro Alexandre,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Alto-Sertão
 PIATÃ,2924306,BA,SEABRA,CENTRO SUL BAIANO,BAHIA,Piatã,Não_monitorado,Barragem Maurícia,Superficial,Isolado,Isolado Piatã
@@ -290,7 +290,7 @@ PLANALTINO,2924900,BA,JEQUIÉ,CENTRO SUL BAIANO,BAHIA,Planaltino,Não_monitorado
 PLANALTO,2925006,BA,VITÓRIA DA CONQUISTA,CENTRO SUL BAIANO,BAHIA,Planalto,Não_monitorado,Barragem Riacho Serra Preta,Superficial,Isolado,Isolado Planalto
 PLANALTO,2925006,BA,VITÓRIA DA CONQUISTA,CENTRO SUL BAIANO,BAHIA,Planalto,Não_monitorado,Barragem Riacho Saco Grande,Superficial,Isolado,Isolado Planalto
 POÇŐES,2925105,BA,VITÓRIA DA CONQUISTA,CENTRO SUL BAIANO,BAHIA,Poções,12284,Açude Morrinhos - Rio das Mulheres,Superficial,Integrado,Integrado Poções
-PONTO NOVO,2925253,BA,JACOBINA,CENTRO NORTE BAIANO,BAHIA,Ponto Novo,12354,Barragem de Ponto Novo (Rio Itapicuru-açu),Superficial,Integrado,Integrado Ponto Novo 
+PONTO NOVO,2925253,BA,JACOBINA,CENTRO NORTE BAIANO,BAHIA,Ponto Novo,12354,Barragem de Ponto Novo (Rio Itapicuru-açu),Superficial,Integrado,Integrado Ponto Novo
 POTIRAGUÁ,2925402,BA,ITAPETINGA,CENTRO SUL BAIANO,BAHIA,Potiraguá,Não_monitorado,Rio Pardo - BA,Superficial,Isolado,Isolado Potiraguá
 PRESIDENTE DUTRA,2925600,BA,IRECĘ,CENTRO NORTE BAIANO,BAHIA,Presidente Dutra,12279,Barragem de Mirorós (Rio Verde),Superficial,Integrado,Integrado Adutora do Feijão
 PRESIDENTE JÂNIO QUADROS,2925709,BA,BRUMADO,CENTRO SUL BAIANO,BAHIA,Presidente Jânio Quadros,Não_monitorado,Barragem da Solenidade,Superficial,Isolado,Isolado Presidente Jânio Quadros
@@ -307,13 +307,13 @@ RIBEIRA DO AMPARO,2926509,BA,RIBEIRA DO POMBAL,NORDESTE BAIANO,BAHIA,Ribeira do 
 RIBEIRA DO POMBAL,2926608,BA,RIBEIRA DO POMBAL,NORDESTE BAIANO,BAHIA,Ribeira do Pombal,Não_monitorado,Poços de Ribeira do Pombal,Subterrâneo,Isolado,Isolado Ribeira do Pombal
 RIBEIRÃO DO LARGO,2926657,BA,ITAPETINGA,CENTRO SUL BAIANO,BAHIA,Ribeirão do Largo,Não_monitorado,Rio Ribeirão - BA,Superficial,Isolado,Isolado Ribeirão do Largo
 RIO DE CONTAS,2926707,BA,SEABRA,CENTRO SUL BAIANO,BAHIA,Rio de Contas,Não_monitorado,Rio Brumado,Superficial,Isolado,Isolado Rio de Contas
-RIO DE CONTAS,2926707,BA,SEABRA,CENTRO SUL BAIANO,BAHIA,Rio de Contas,Não_monitorado,Rio Gunduri ,Superficial,Isolado,Isolado Rio de Contas
+RIO DE CONTAS,2926707,BA,SEABRA,CENTRO SUL BAIANO,BAHIA,Rio de Contas,Não_monitorado,Rio Gunduri,Superficial,Isolado,Isolado Rio de Contas
 RIO DO ANTÔNIO,2926806,BA,BRUMADO,CENTRO SUL BAIANO,BAHIA,Rio do Antônio,Não_monitorado,Barragem Rio do Antônio,Superficial,Isolado,Isolado Rio do Antônio
 RIO DO PIRES,2926905,BA,LIVRAMENTO DO BRUMADO,CENTRO SUL BAIANO,BAHIA,Rio do Pires,Não_monitorado,Rio do Pires,Superficial,Isolado,Isolado Rio do Pires
 RODELAS,2927101,BA,PAULO AFONSO,VALE SÃO-FRANCISCANO DA BAHIA,BAHIA,Rodelas,Não_monitorado,Barragem de Itaparica - Rio São Francisco,Superficial,Isolado,Isolado Rodelas
 RUY BARBOSA,2927200,BA,ITABERABA,CENTRO NORTE BAIANO,BAHIA,Ruy Barbosa,Não_monitorado,Rio Paraguaçu,Superficial,Integrado,Integrado Itaberaba
 SANTA BÁRBARA,2927507,BA,FEIRA DE SANTANA,CENTRO NORTE BAIANO,BAHIA,Santa Bárbara,795,Barragem Pedra do Cavalo,Superficial,Integrado,Integrado Feira de Santana
-SANTA BRÍGIDA,2927606,BA,JEREMOABO,NORDESTE BAIANO,BAHIA,Santa Brígida,Não_monitorado,Barragem PA IV (Rio São Francisco) ,Superficial,Integrado,Integrado Paulo Afonso IV
+SANTA BRÍGIDA,2927606,BA,JEREMOABO,NORDESTE BAIANO,BAHIA,Santa Brígida,Não_monitorado,Barragem PA IV (Rio São Francisco),Superficial,Integrado,Integrado Paulo Afonso IV
 SANTA INĘS,2927903,BA,JEQUIÉ,CENTRO SUL BAIANO,BAHIA,Santa Inês,Não_monitorado,Rio das Almas - BA,Superficial,Integrado,Integrado Santa Inês
 SANTA TERESINHA,2928505,BA,FEIRA DE SANTANA,CENTRO NORTE BAIANO,BAHIA,Santa Teresinha,Não_monitorado,Rio Paraguaçu,Superficial,Integrado,Integrado Milagres
 SANTALUZ,2928000,BA,SERRINHA,NORDESTE BAIANO,BAHIA,Santaluz,Não_monitorado,Rio Itapicuru,Superficial,Integrado,Integrado Santaluz - Queimadas
@@ -386,7 +386,7 @@ ARACATI,2301109,CE,LITORAL DE ARACATI,JAGUARIBE,CEARÁ,Aracati,Não_monitorado,1
 ARACOIABA,2301208,CE,BATURITÉ,NORTE CEARENSE,CEARÁ,Aracoiaba,12027,Açude Araçoiaba,Superficial,Integrado,Integrado Araçoiaba-Baturité
 ARARENDÁ,2301257,CE,SERTÃO DE CRATÉUS,SERTŐES CEARENSES,CEARÁ,Ararendá,Não_monitorado,Poços de Ararendá,Subterrâneo,Isolado,Ararendá
 ARARIPE,2301307,CE,CHAPADA DO ARARIPE,SUL CEARENSE,CEARÁ,Araripe,Não_monitorado,2 Poços Araripe,Subterrâneo,Integrado,Integrado Campos Sales-Salitre-Araripe
-ARARIPE,2301307,CE,CHAPADA DO ARARIPE,SUL CEARENSE,CEARÁ,Araripe,Não_monitorado,Açude João Luis,Superficial,Isolado,Isolado Araripe 
+ARARIPE,2301307,CE,CHAPADA DO ARARIPE,SUL CEARENSE,CEARÁ,Araripe,Não_monitorado,Açude João Luis,Superficial,Isolado,Isolado Araripe
 ARATUBA,2301406,CE,BATURITÉ,NORTE CEARENSE,CEARÁ,Aratuba,Não_monitorado,"4 Poços, 2 Poços Amazonas e Fonte",Subterrâneo,Isolado,Aratuba
 ARNEIROZ,2301505,CE,SERTÃO DE INHAMUNS,SERTŐES CEARENSES,CEARÁ,Arneiroz,Não_monitorado,Açude Macuim,Superficial,Isolado,Arneiroz
 ASSARÉ,2301604,CE,CHAPADA DO ARARIPE,SUL CEARENSE,CEARÁ,Assaré,12098,Açude Canoas,Superficial,Isolado,Assaré
@@ -396,7 +396,7 @@ BANABUIÚ,2301851,CE,SERTÃO DE QUIXERAMOBIM,SERTŐES CEARENSES,CEARÁ,Banabuiú
 BARBALHA,2301901,CE,CARIRI,SUL CEARENSE,CEARÁ,Barbalha,Não_monitorado,Fonte do Camelo,Subterrâneo,Isolado,Barbalha
 BARBALHA,2301901,CE,CARIRI,SUL CEARENSE,CEARÁ,Barbalha,Não_monitorado,Poços Barbalha,Subterrâneo,Isolado,Barbalha
 BARREIRA,2301950,CE,CHOROZINHO,NORTE CEARENSE,CEARÁ,Barreira,12003,Açude Acarapé do Meio,Superficial,Integrado,Integrado Redenção-Acarape-Barreiras
-BARRO,2302008,CE,BARRO,SUL CEARENSE,CEARÁ,Barro,Não_monitorado,12 Poços Barro ,Subterrâneo,Isolado,Barro
+BARRO,2302008,CE,BARRO,SUL CEARENSE,CEARÁ,Barro,Não_monitorado,12 Poços Barro,Subterrâneo,Isolado,Barro
 BATURITÉ,2302107,CE,BATURITÉ,NORTE CEARENSE,CEARÁ,Baturité,12027,Açude Araçoiaba,Superficial,Integrado,Integrado Araçoiaba-Baturité
 BATURITÉ,2302107,CE,BATURITÉ,NORTE CEARENSE,CEARÁ,Baturité,12461,Açude Tijuquinha,Superficial,Isolado,Isolado Baturité 1
 BATURITÉ,2302107,CE,BATURITÉ,NORTE CEARENSE,CEARÁ,Baturité,Não_monitorado,16 Poços Baturité,Subterrâneo,Isolado,Isolado Baturité 2
@@ -404,10 +404,10 @@ BOA VIAGEM,2302404,CE,SERTÃO DE QUIXERAMOBIM,SERTŐES CEARENSES,CEARÁ,Boa Viag
 BREJO SANTO,2302503,CE,BREJO SANTO,SUL CEARENSE,CEARÁ,Brejo Santo,Não_monitorado,24 Poços Brejo Santo,Subterrâneo,Isolado,Brejo Santo
 CAMPOS SALES,2302701,CE,CHAPADA DO ARARIPE,SUL CEARENSE,CEARÁ,Campos Sales,Não_monitorado,2 Poços Araripe,Subterrâneo,Integrado,Integrado Campos Sales-Salitre-Araripe
 CAMPOS SALES,2302701,CE,CHAPADA DO ARARIPE,SUL CEARENSE,CEARÁ,Campos Sales,12341,Açude Poço da Pedra,Superficial,Isolado,Isolado Campos Sales
-CANINDÉ,2302800,CE,CANINDÉ,NORTE CEARENSE,CEARÁ,Canindé,Não_monitorado,Açude Souza,Superficial,Isolado,Canindé 
+CANINDÉ,2302800,CE,CANINDÉ,NORTE CEARENSE,CEARÁ,Canindé,Não_monitorado,Açude Souza,Superficial,Isolado,Canindé
 CAPISTRANO,2302909,CE,BATURITÉ,NORTE CEARENSE,CEARÁ,Capistrano,12113,Açude Castro,Superficial,Isolado,Capistrano
 CARIDADE,2303006,CE,CANINDÉ,NORTE CEARENSE,CEARÁ,Caridade,12405,Açude São Domingos,Superficial,Isolado,Caridade
-CARIRÉ,2303105,CE,SOBRAL,NOROESTE CEARENSE,CEARÁ,Cariré,Não_monitorado,3 Poços Cariré ,Subterrâneo,Isolado,Cariré
+CARIRÉ,2303105,CE,SOBRAL,NOROESTE CEARENSE,CEARÁ,Cariré,Não_monitorado,3 Poços Cariré,Subterrâneo,Isolado,Cariré
 CARIRIAÇU,2303204,CE,CARIRIAÇU,SUL CEARENSE,CEARÁ,Caririaçu,Não_monitorado,Açude Palestina,Superficial,Isolado,Caririaçu
 CARIRIAÇU,2303204,CE,CARIRIAÇU,SUL CEARENSE,CEARÁ,Caririaçu,12405,Açude São Domingos,Superficial,Isolado,Caririaçu 2
 CARIÚS,2303303,CE,VÁRZEA ALEGRE,CENTRO-SUL CEARENSE,CEARÁ,Cariús,Não_monitorado,Poço Amazonas (Rio Cariús),Subterrâneo,Integrado,Integrado Cariús-Jucás
@@ -418,18 +418,20 @@ CATUNDA,2303659,CE,SANTA QUITÉRIA,NOROESTE CEARENSE,CEARÁ,Catunda,12107,Açude
 CAUCAIA,2303709,CE,FORTALEZA,METROPOLITANA DE FORTALEZA,CEARÁ,Caucaia,12302,Açude Gavião / Riachão / Pacoti / Pavajus / Rio Jaguaribe(Canal do Trabalhador),Superficial,Integrado,Integrado Gavião  (Adutora Ancuri)
 CEDRO,2303808,CE,IGUATU,CENTRO-SUL CEARENSE,CEARÁ,Cedro,Não_monitorado,Riacho São Miguel,Superficial,Isolado,Cedro
 CHORÓ,2303931,CE,SERTÃO DE QUIXERAMOBIM,SERTŐES CEARENSES,CEARÁ,Choró,12352,Açude Pompeu Sobrinho,Superficial,Isolado,Choró
-CHOROZINHO,2303956,CE,CHOROZINHO,NORTE CEARENSE,CEARÁ,Chorozinho,12302 / 12301 / Ñ_m,Açude Pacoti / Pacajus / Rio Jaguaribe(Canal do Trabalhador),Superficial,Integrado,Integrado Pacajús-Horizonte e Chorozinho
-COREAÚ,2304004,CE,COREAÚ,NOROESTE CEARENSE,CEARÁ,Coreaú,Não_monitorado,Açude Várzea da Volta,Superficial,Integrado,Integrado Moraújo-Coreaú 
+CHOROZINHO,2303956,CE,CHOROZINHO,NORTE CEARENSE,CEARÁ,Chorozinho,12302,Açude Pacoti,Superficial,Integrado,Integrado Pacajús-Horizonte e Chorozinho
+CHOROZINHO,2303956,CE,CHOROZINHO,NORTE CEARENSE,CEARÁ,Chorozinho,12301,Açude Pacajus,Superficial,Integrado,Integrado Pacajús-Horizonte e Chorozinho
+CHOROZINHO,2303956,CE,CHOROZINHO,NORTE CEARENSE,CEARÁ,Chorozinho,Não_monitorado,Rio Jaguaribe(Canal do Trabalhador),Superficial,Integrado,Integrado Pacajús-Horizonte e Chorozinho
+COREAÚ,2304004,CE,COREAÚ,NOROESTE CEARENSE,CEARÁ,Coreaú,Não_monitorado,Açude Várzea da Volta,Superficial,Integrado,Integrado Moraújo-Coreaú
 CRATEÚS,2304103,CE,SERTÃO DE CRATÉUS,SERTŐES CEARENSES,CEARÁ,Crateús,12109,Açude Carnaubal,Superficial,Isolado,Crateús
-CRATO,2304202,CE,CARIRI,SUL CEARENSE,CEARÁ,Crato,Não_monitorado,Poços Crato ,Subterrâneo,Isolado,Crato
-CROATÁ,2304236,CE,IBIAPABA,NOROESTE CEARENSE,CEARÁ,Croatá,Não_monitorado,4 Poços Croatá ,Subterrâneo,Isolado,Croatá
+CRATO,2304202,CE,CARIRI,SUL CEARENSE,CEARÁ,Crato,Não_monitorado,Poços Crato,Subterrâneo,Isolado,Crato
+CROATÁ,2304236,CE,IBIAPABA,NOROESTE CEARENSE,CEARÁ,Croatá,Não_monitorado,4 Poços Croatá,Subterrâneo,Isolado,Croatá
 DEPUTADO IRAPUAN PINHEIRO,2304269,CE,SERTÃO DE SENADOR POMPEU,SERTŐES CEARENSES,CEARÁ,Deputado Irapuan Pinheiro,Não_monitorado,Poço Amazonas,Subterrâneo,Isolado,Deputado Irapuan Pinheiro
 ERERĘ,2304277,CE,SERRA DO PEREIRO,JAGUARIBE,CEARÁ,Ererê,Não_monitorado,Poço Amazonas,Subterrâneo,Isolado,Ererê
 ERERĘ,2304277,CE,SERRA DO PEREIRO,JAGUARIBE,CEARÁ,Ererê,Não_monitorado,Poço Ererê,Subterrâneo,Isolado,Ererê
 FARIAS BRITO,2304301,CE,CARIRIAÇU,SUL CEARENSE,CEARÁ,Farias Brito,Não_monitorado,Poço Amazonas,Subterrâneo,Isolado,Farias Brito
-FARIAS BRITO,2304301,CE,CARIRIAÇU,SUL CEARENSE,CEARÁ,Farias Brito,Não_monitorado,8 Poços Farias Brito ,Subterrâneo,Isolado,Farias Brito
+FARIAS BRITO,2304301,CE,CARIRIAÇU,SUL CEARENSE,CEARÁ,Farias Brito,Não_monitorado,8 Poços Farias Brito,Subterrâneo,Isolado,Farias Brito
 FORQUILHA,2304350,CE,SOBRAL,NOROESTE CEARENSE,CEARÁ,Forquilha,12187,Açude Forquilha,Superficial,Isolado,Forquilha
-FRECHEIRINHA,2304509,CE,COREAÚ,NOROESTE CEARENSE,CEARÁ,Frecheirinha,Não_monitorado,1 Poço Frecheirinha ,Subterrâneo,Isolado,Frecheirinha 1
+FRECHEIRINHA,2304509,CE,COREAÚ,NOROESTE CEARENSE,CEARÁ,Frecheirinha,Não_monitorado,1 Poço Frecheirinha,Subterrâneo,Isolado,Frecheirinha 1
 FRECHEIRINHA,2304509,CE,COREAÚ,NOROESTE CEARENSE,CEARÁ,Frecheirinha,12023,Açude Angicos,Superficial,Isolado,Frecherinha 2
 GENERAL SAMPAIO,2304608,CE,MÉDIO CURU,NORTE CEARENSE,CEARÁ,General Sampaio,12197,Açude General Sampaio,Superficial,Isolado,General Sampaio
 GRAÇA,2304657,CE,SOBRAL,NOROESTE CEARENSE,CEARÁ,Graça,12219,Açude Jaburu I,Superficial,Integrado,Integrado Jaburú ou Ibiapaba
@@ -439,15 +441,17 @@ GROAÍRAS,2304905,CE,SOBRAL,NOROESTE CEARENSE,CEARÁ,Groaíras,Não_monitorado,2
 GUARACIABA DO NORTE,2305001,CE,IBIAPABA,NOROESTE CEARENSE,CEARÁ,Guaraciaba do Norte,12219,Açude Jaburu I,Superficial,Integrado,Integrado Jaburú ou Ibiapaba
 GUARAMIRANGA,2305100,CE,BATURITÉ,NORTE CEARENSE,CEARÁ,Guaramiranga,Não_monitorado,2 PA e 3 poços,Subterrâneo,Isolado,Guaramiranga
 HIDROLÂNDIA,2305209,CE,SANTA QUITÉRIA,NOROESTE CEARENSE,CEARÁ,Hidrolândia,12030,Açude Araras,Superficial,Isolado,Hidrolândia
-HORIZONTE,2305233,CE,PACAJUS,METROPOLITANA DE FORTALEZA,CEARÁ,Horizonte,12302 / 12301 / Ñ_m,Açude Pacoti / Pacajus / Rio Jaguaribe(Canal do Trabalhador),Superficial,Integrado,Integrado Pacajús-Horizonte e Chorozinho
+HORIZONTE,2305233,CE,PACAJUS,METROPOLITANA DE FORTALEZA,CEARÁ,Horizonte,12302,Açude Pacoti,Superficial,Integrado,Integrado Pacajús-Horizonte e Chorozinho
+HORIZONTE,2305233,CE,PACAJUS,METROPOLITANA DE FORTALEZA,CEARÁ,Horizonte,12301,Açude Pacajus,Superficial,Integrado,Integrado Pacajús-Horizonte e Chorozinho
+HORIZONTE,2305233,CE,PACAJUS,METROPOLITANA DE FORTALEZA,CEARÁ,Horizonte,Não_monitorado,Rio Jaguaribe(Canal do Trabalhador),Superficial,Integrado,Integrado Pacajús-Horizonte e Chorozinho
 IBARETAMA,2305266,CE,SERTÃO DE QUIXERAMOBIM,SERTŐES CEARENSES,CEARÁ,Ibaretama,Não_monitorado,Açude Santa Branca,Superficial,Isolado,Ibaretama
 IBIAPINA,2305308,CE,IBIAPABA,NOROESTE CEARENSE,CEARÁ,Ibiapina,12219,Açude Jaburu I,Superficial,Integrado,Integrado Jaburú ou Ibiapaba
 IBICUITINGA,2305332,CE,BAIXO JAGUARIBE,JAGUARIBE,CEARÁ,Ibicuitinga,Não_monitorado,Poço Amazonas(Rio Banabuiu),Subterrâneo,Isolado,Ibicuitinga
 ICAPUÍ,2305357,CE,LITORAL DE ARACATI,JAGUARIBE,CEARÁ,Icapuí,Não_monitorado,2 Poços Icapuí,Subterrâneo,Isolado,Icapuí
 ICÓ,2305407,CE,IGUATU,CENTRO-SUL CEARENSE,CEARÁ,Icó,12254,Açude Lima Campos,Superficial,Isolado,Icó
-IGUATU,2305506,CE,IGUATU,CENTRO-SUL CEARENSE,CEARÁ,Iguatu,Não_monitorado,Poços Iguatu ,Subterrâneo,Isolado,Iguatu 1
+IGUATU,2305506,CE,IGUATU,CENTRO-SUL CEARENSE,CEARÁ,Iguatu,Não_monitorado,Poços Iguatu,Subterrâneo,Isolado,Iguatu 1
 IGUATU,2305506,CE,IGUATU,CENTRO-SUL CEARENSE,CEARÁ,Iguatu,12471,Açude Trussu,Superficial,Isolado,Iguatu 2
-INDEPENDĘNCIA,2305605,CE,SERTÃO DE CRATÉUS,SERTŐES CEARENSES,CEARÁ,Independência,12043,Açude Barra Velha,Superficial,Isolado,Independência
+INDEPENDENCIA,2305605,CE,SERTÃO DE CRATÉUS,SERTŐES CEARENSES,CEARÁ,Independência,12043,Açude Barra Velha,Superficial,Isolado,Independência
 IPAPORANGA,2305654,CE,SERTÃO DE CRATÉUS,SERTŐES CEARENSES,CEARÁ,Ipaporanga,Não_monitorado,Poços de Ipaporanga,Subterrâneo,Isolado,Ipaporanga
 IPAUMIRIM,2305704,CE,LAVRAS DA MANGABEIRA,CENTRO-SUL CEARENSE,CEARÁ,Ipaumirim,Não_monitorado,2 Poços e 3 Poços Amazonas,Subterrâneo,Isolado,Ipaumirim
 IPU,2305803,CE,IPU,NOROESTE CEARENSE,CEARÁ,Ipu,12030,Açude Araras,Superficial,Isolado,Ipu
@@ -462,7 +466,7 @@ ITAPIPOCA,2306405,CE,ITAPIPOCA,NORTE CEARENSE,CEARÁ,Itapipoca,12360,Açude Quan
 ITAPIPOCA,2306405,CE,ITAPIPOCA,NORTE CEARENSE,CEARÁ,Itapipoca,12348,Açude Poço Verde,Superficial,Isolado,Itapipoca 1
 ITAPIPOCA,2306405,CE,ITAPIPOCA,NORTE CEARENSE,CEARÁ,Itapipoca,Não_monitorado,Fonte Garapa,Subterrâneo,Isolado,Itapipoca 2
 ITAPIÚNA,2306504,CE,BATURITÉ,NORTE CEARENSE,CEARÁ,Itapiúna,12113,Açude Castro,Superficial,Isolado,Itapiúna
-ITATIRA,2306603,CE,CANINDÉ,NORTE CEARENSE,CEARÁ,Itatira,Não_monitorado,2 Poços Itatira ,Subterrâneo,Isolado,Itatira
+ITATIRA,2306603,CE,CANINDÉ,NORTE CEARENSE,CEARÁ,Itatira,Não_monitorado,2 Poços Itatira,Subterrâneo,Isolado,Itatira
 JAGUARETAMA,2306702,CE,MÉDIO JAGUARIBE,JAGUARIBE,CEARÁ,Jaguaretama,Não_monitorado,Rio do Sangue,Superficial,Isolado,Jaguaretama
 JAGUARIBARA,2306801,CE,MÉDIO JAGUARIBE,JAGUARIBE,CEARÁ,Jaguaribara,Não_monitorado,Poço Amazonas (Rio Jaguaribe),Subterrâneo,Isolado,Jaguaribara
 JAGUARIBE,2306900,CE,MÉDIO JAGUARIBE,JAGUARIBE,CEARÁ,Jaguaribe,Não_monitorado,Rio Jaguaribe,Superficial,Isolado,Jaguaribe
@@ -476,28 +480,30 @@ LAVRAS DA MANGABEIRA,2307502,CE,LAVRAS DA MANGABEIRA,CENTRO-SUL CEARENSE,CEARÁ,
 LAVRAS DA MANGABEIRA,2307502,CE,LAVRAS DA MANGABEIRA,CENTRO-SUL CEARENSE,CEARÁ,Lavras da Mangabeira,Não_monitorado,Rio Salgado,Superficial,Isolado,Lavras da Mangabeira 1
 LAVRAS DA MANGABEIRA,2307502,CE,LAVRAS DA MANGABEIRA,CENTRO-SUL CEARENSE,CEARÁ,Lavras da Mangabeira,12384,Açude Rosário,Superficial,Isolado,Lavras da Mangabeira 2
 LIMOEIRO DO NORTE,2307601,CE,BAIXO JAGUARIBE,JAGUARIBE,CEARÁ,Limoeiro do Norte,Não_monitorado,Rio Jaguaribe,Superficial,Isolado,Limoeiro do Norte
-MADALENA,2307635,CE,SERTÃO DE QUIXERAMOBIM,SERTŐES CEARENSES,CEARÁ,Madalena,Não_monitorado,Poços Madalena ,Subterrâneo,Isolado,Madalena
+MADALENA,2307635,CE,SERTÃO DE QUIXERAMOBIM,SERTŐES CEARENSES,CEARÁ,Madalena,Não_monitorado,Poços Madalena,Subterrâneo,Isolado,Madalena
 MARANGUAPE,2307700,CE,FORTALEZA,METROPOLITANA DE FORTALEZA,CEARÁ,Maranguape,12302,Açude Gavião / Riachão / Pacoti / Pavajus / Rio Jaguaribe(Canal do Trabalhador),Superficial,Integrado,Integrado Acarape do Meio - Gavião (Adutora Acarape)
 MARANGUAPE,2307700,CE,FORTALEZA,METROPOLITANA DE FORTALEZA,CEARÁ,Maranguape,12003,Açude Acarapé do Meio,Superficial,Integrado,Integrado Acarape do Meio - Gavião (Adutora Acarape)
 MASSAPĘ,2308005,CE,SOBRAL,NOROESTE CEARENSE,CEARÁ,Massapê,12004,Açude Acaraú Mirim,Superficial,Isolado,Massapê
-MAURITI,2308104,CE,BARRO,SUL CEARENSE,CEARÁ,Mauriti,Não_monitorado,6 Poços Mauriti ,Subterrâneo,Isolado,Mauriti
+MAURITI,2308104,CE,BARRO,SUL CEARENSE,CEARÁ,Mauriti,Não_monitorado,6 Poços Mauriti,Subterrâneo,Isolado,Mauriti
 MERUOCA,2308203,CE,MERUOCA,NOROESTE CEARENSE,CEARÁ,Meruoca,Não_monitorado,Açude Pedra,Superficial,Isolado,Meruoca
-MILAGRES,2308302,CE,BREJO SANTO,SUL CEARENSE,CEARÁ,Milagres,Não_monitorado,3 Poços Milagres ,Subterrâneo,Isolado,Milagres
+MILAGRES,2308302,CE,BREJO SANTO,SUL CEARENSE,CEARÁ,Milagres,Não_monitorado,3 Poços Milagres,Subterrâneo,Isolado,Milagres
 MILHÃ,2308351,CE,SERTÃO DE SENADOR POMPEU,SERTŐES CEARENSES,CEARÁ,Milhã,12225,Açude Jatobá ou Monte Sabino,Superficial,Isolado,Milhã
 MIRAÍMA,2308377,CE,SOBRAL,NOROESTE CEARENSE,CEARÁ,Miraíma,12423,Açude São Pedro da Timbaúba,Superficial,Isolado,Miraíma
 MISSÃO VELHA,2308401,CE,CARIRI,SUL CEARENSE,CEARÁ,Missão Velha,Não_monitorado,3 Poços Missão Velha,Subterrâneo,Isolado,Missão Velha
 MOMBAÇA,2308500,CE,SERTÃO DE SENADOR POMPEU,SERTŐES CEARENSES,CEARÁ,Mombaça,12427,Açude Serafim Dias,Superficial,Isolado,Mombaça
-MONSENHOR TABOSA,2308609,CE,SERTÃO DE CRATÉUS,SERTŐES CEARENSES,CEARÁ,Monsenhor Tabosa,12281,Açude Monsenhor Tabosa ,Superficial,Isolado,Monsenhor Tabosa
+MONSENHOR TABOSA,2308609,CE,SERTÃO DE CRATÉUS,SERTŐES CEARENSES,CEARÁ,Monsenhor Tabosa,12281,Açude Monsenhor Tabosa,Superficial,Isolado,Monsenhor Tabosa
 MORADA NOVA,2308708,CE,BAIXO JAGUARIBE,JAGUARIBE,CEARÁ,Morada Nova,Não_monitorado,Rio Banabuiú,Superficial,Isolado,Morada Nova
 MUCAMBO,2309003,CE,SOBRAL,NOROESTE CEARENSE,CEARÁ,Mucambo,12219,Açude Jaburu I,Superficial,Integrado,Integrado Jaburú ou Ibiapaba
 MUCAMBO,2309003,CE,SOBRAL,NOROESTE CEARENSE,CEARÁ,Mucambo,Não_monitorado,Açude Municipal,Superficial,Isolado,Isolado Mucambo
 MULUNGU,2309102,CE,BATURITÉ,NORTE CEARENSE,CEARÁ,Mulungu,Não_monitorado,6 Poços de Mulungu,Subterrâneo,Isolado,Mulungu
-NOVA OLINDA,2309201,CE,CARIRI,SUL CEARENSE,CEARÁ,Nova Olinda,Não_monitorado,6 Poços Nova Olinda ,Subterrâneo,Isolado,Nova Olinda
+NOVA OLINDA,2309201,CE,CARIRI,SUL CEARENSE,CEARÁ,Nova Olinda,Não_monitorado,6 Poços Nova Olinda,Subterrâneo,Isolado,Nova Olinda
 NOVA RUSSAS,2309300,CE,SERTÃO DE CRATÉUS,SERTŐES CEARENSES,CEARÁ,Nova Russas,12178,Açude Farias de Souza,Superficial,Isolado,Nova Russas
 NOVO ORIENTE,2309409,CE,SERTÃO DE CRATÉUS,SERTŐES CEARENSES,CEARÁ,Novo Oriente,12184,Açude Flor do Campo,Superficial,Isolado,Novo Oriente
 OCARA,2309458,CE,CHOROZINHO,NORTE CEARENSE,CEARÁ,Ocara,Não_monitorado,Rio Choró (Açude Aracoiaba),Superficial,Isolado,Ocara
 ORÓS,2309508,CE,IGUATU,CENTRO-SUL CEARENSE,CEARÁ,Orós,12299,Açude Orós,Superficial,Isolado,Orós
-PACAJUS,2309607,CE,PACAJUS,METROPOLITANA DE FORTALEZA,CEARÁ,Pacajus,12302 / 12301 / Ñ_m,Açude Pacoti / Pacajus / Rio Jaguaribe(Canal do Trabalhador),Superficial,Integrado,Integrado Pacajús-Horizonte e Chorozinho
+PACAJUS,2309607,CE,PACAJUS,METROPOLITANA DE FORTALEZA,CEARÁ,Pacajus,12302,Açude Pacoti,Superficial,Integrado,Integrado Pacajús-Horizonte e Chorozinho
+PACAJUS,2309607,CE,PACAJUS,METROPOLITANA DE FORTALEZA,CEARÁ,Pacajus,12301,Açude Pacajus,Superficial,Integrado,Integrado Pacajús-Horizonte e Chorozinho
+PACAJUS,2309607,CE,PACAJUS,METROPOLITANA DE FORTALEZA,CEARÁ,Pacajus,Não_monitorado,Rio Jaguaribe(Canal do Trabalhador),Superficial,Integrado,Integrado Pacajús-Horizonte e Chorozinho
 PACOTI,2309805,CE,BATURITÉ,NORTE CEARENSE,CEARÁ,Pacoti,Não_monitorado,5 Poços e 4 Poços Amazonas,Subterrâneo,Isolado,Pacoti
 PACUJÁ,2309904,CE,SOBRAL,NOROESTE CEARENSE,CEARÁ,Pacujá,12219,Açude Jaburu I,Superficial,Integrado,Integrado Jaburú ou Ibiapaba
 PACUJÁ,2309904,CE,SOBRAL,NOROESTE CEARENSE,CEARÁ,Pacujá,Não_monitorado,Poços Pacujá,Subterrâneo,Isolado,Isolado Pacujá 1
@@ -526,7 +532,7 @@ QUIXERAMOBIM,2311405,CE,SERTÃO DE QUIXERAMOBIM,SERTŐES CEARENSES,CEARÁ,Quixer
 QUIXERÉ,2311504,CE,BAIXO JAGUARIBE,JAGUARIBE,CEARÁ,Quixeré,Não_monitorado,4 Poços Quixeré,Subterrâneo,Isolado,Quixeré
 REDENÇÃO,2311603,CE,BATURITÉ,NORTE CEARENSE,CEARÁ,Redenção,12003,Açude Acarapé do Meio,Superficial,Integrado,Integrado Redenção-Acarape-Barreiras
 RERIUTABA,2311702,CE,IPU,NOROESTE CEARENSE,CEARÁ,Reriutaba,12030,Açude Araras,Superficial,Integrado,Integrado Varjota-Reriutaba
-RUSSAS,2311801,CE,BAIXO JAGUARIBE,JAGUARIBE,CEARÁ,Russas,Não_monitorado,9 Poços Russas ,Subterrâneo,Isolado,Russas
+RUSSAS,2311801,CE,BAIXO JAGUARIBE,JAGUARIBE,CEARÁ,Russas,Não_monitorado,9 Poços Russas,Subterrâneo,Isolado,Russas
 RUSSAS,2311801,CE,BAIXO JAGUARIBE,JAGUARIBE,CEARÁ,Russas,Não_monitorado,Rio Banabuiú,Superficial,Isolado,Russas
 SABOEIRO,2311900,CE,SERTÃO DE INHAMUNS,SERTŐES CEARENSES,CEARÁ,Saboeiro,Não_monitorado,Açude Caldeirão,Superficial,Isolado,Saboeiro
 SALITRE,2311959,CE,CHAPADA DO ARARIPE,SUL CEARENSE,CEARÁ,Salitre,Não_monitorado,2 Poços Araripe,Subterrâneo,Integrado,Integrado Campos Sales-Salitre-Araripe
@@ -558,7 +564,7 @@ BANDEIRA,3105202,MG,ALMENARA,JEQUITINHONHA,MINAS GERAIS,Bandeira,Não_monitorado
 BERILO,3106507,MG,CAPELINHA,JEQUITINHONHA,MINAS GERAIS,Berilo,Não_monitorado,Rio Araçuaí,Superficial,Isolado,Berilo
 BERIZAL,3106655,MG,SALINAS,NORTE DE MINAS,MINAS GERAIS,Berizal,Não_monitorado,Rio Pardo,Superficial,Isolado,Berizal
 BONITO DE MINAS,3108255,MG,JANUÁRIA,NORTE DE MINAS,MINAS GERAIS,Bonito de Minas,Não_monitorado,Poço (CSB-02) Bonito de Minas,Subterrâneo,Isolado,Bonito de Minas
-CACHOEIRA DE PAJEÚ,3102704,MG,PEDRA AZUL,JEQUITINHONHA,MINAS GERAIS,Cachoeira de Pajeú,Não_monitorado,Barragem Córrego do Urubu ,Superficial,Isolado,Cachoeira de Pajeú
+CACHOEIRA DE PAJEÚ,3102704,MG,PEDRA AZUL,JEQUITINHONHA,MINAS GERAIS,Cachoeira de Pajeú,Não_monitorado,Barragem Córrego do Urubu,Superficial,Isolado,Cachoeira de Pajeú
 CAPITÃO ENÉAS,3112703,MG,MONTES CLAROS,NORTE DE MINAS,MINAS GERAIS,Capitão Enéas,Não_monitorado,Poços de Capitão Enéas,Subterrâneo,Isolado,Capitão Enéas
 CARAÍ,3113008,MG,ARAÇUAÍ,JEQUITINHONHA,MINAS GERAIS,Caraí,Não_monitorado,Córrego São José,Superficial,Isolado,Caraí
 CATUTI,3115474,MG,JANAÚBA,NORTE DE MINAS,MINAS GERAIS,Catuti,Não_monitorado,Rio Viamão,Superficial,Integrado,Integrado Catuti - Mato Verde
@@ -683,7 +689,7 @@ ASSUNÇÃO,2501351,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Assunção,Não_monito
 BANANEIRAS,2501500,PB,BREJO PARAIBANO,AGRESTE PARAIBANO,PARAÍBA,Bananeiras,Não_monitorado,Açude Canafístula II,Superficial,Integrado,Sistema Produtor Integrado Cacimba de Várzea/ Canafístula II
 BARAÚNA,2501534,PB,SERIDÓ ORIENTAL PARAIBANO,BORBOREMA,PARAÍBA,Baraúna,,,,Isolado,Baraúna - Sem sistema de abastecimento de água
 BARRA DE SANTA ROSA,2501609,PB,CURIMATAÚ OCIDENTAL,AGRESTE PARAIBANO,PARAÍBA,Barra de Santa Rosa,12351,Açude Poleiros,Superficial,Isolado,Barra de Santa Rosa
-BARRA DE SANTANA,2501575,PB,CARIRI ORIENTAL,BORBOREMA,PARAÍBA,Barra de Santana,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Campina Grande (Boqueirão) 
+BARRA DE SANTANA,2501575,PB,CARIRI ORIENTAL,BORBOREMA,PARAÍBA,Barra de Santana,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Campina Grande (Boqueirão)
 BARRA DE SÃO MIGUEL,2501708,PB,CARIRI ORIENTAL,BORBOREMA,PARAÍBA,Barra de São Miguel,12053,Açude Bichinhos,Superficial,Isolado,Barra de São Miguel
 BELÉM DO BREJO DO CRUZ,2502003,PB,CATOLÉ DO ROCHA,SERTÃO PARAIBANO,PARAÍBA,Belém do Brejo do Cruz,Não_monitorado,Rio Piranhas,Superficial,Integrado,Sistema Produtor Integrado São Bento
 BERNARDINO BATISTA,2502052,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,Bernardino Batista,Não_monitorado,1 Poço Amazonas (Bernadinho Batista),Subterrâneo,Isolado,Bernardino Batista
@@ -704,17 +710,18 @@ CAIÇARA,2503605,PB,GUARABIRA,AGRESTE PARAIBANO,PARAÍBA,Caiçara,12250,Barragem
 CAJAZEIRAS,2503704,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,Cajazeiras,12166,Açude Eng° Ávidos,Superficial,Isolado,Cajazeiras
 CAJAZEIRINHAS,2503753,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Cajazeirinhas,Não_monitorado,1 Poço Cajazeirinhas,Subterrâneo,Isolado,Cajazeirinhas
 CAMALAÚ,2503902,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Camalaú,12091,Açude Camalaú,Superficial,Isolado,Camalaú
-CAMPINA GRANDE,2504009,PB,CAMPINA GRANDE,AGRESTE PARAIBANO,PARAÍBA,Campina Grande,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Campina Grande (Boqueirão) 
+CAMPINA GRANDE,2504009,PB,CAMPINA GRANDE,AGRESTE PARAIBANO,PARAÍBA,Campina Grande,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Campina Grande (Boqueirão)
 CARAÚBAS,2504074,PB,CARIRI ORIENTAL,BORBOREMA,PARAÍBA,Caraúbas,12095,Açude Campos,Superficial,Isolado,Caraúbas
 CARRAPATEIRA,2504108,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,Carrapateira,12059,Barragem Bom Jesus,Superficial,Isolado,Carrapateira
 CASSERENGUE,2504157,PB,CURIMATAÚ ORIENTAL,AGRESTE PARAIBANO,PARAÍBA,Casserengue,Não_monitorado,2 Fontes e 2 Poços Casserengue,Subterrâneo,Integrado,Integrado Casserengue
 CASSERENGUE,2504157,PB,CURIMATAÚ ORIENTAL,AGRESTE PARAIBANO,PARAÍBA,Casserengue,Não_monitorado,Açude Canafístula II,Superficial,Integrado,Integrado Casserengue
 CATINGUEIRA,2504207,PB,PIANCÓ,SERTÃO PARAIBANO,PARAÍBA,Catingueira,12080,Açude Cachoeira dos Cegos,Superficial,Isolado,Catingueira
 CATOLÉ DO ROCHA,2504306,PB,CATOLÉ DO ROCHA,SERTÃO PARAIBANO,PARAÍBA,Catolé do Rocha,Não_monitorado,Rio Piranhas,Superficial,Isolado,Catolé do Rocha
-CATURITÉ,2504355,PB,CARIRI ORIENTAL,BORBOREMA,PARAÍBA,Caturité,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Campina Grande (Boqueirão) 
+CATURITÉ,2504355,PB,CARIRI ORIENTAL,BORBOREMA,PARAÍBA,Caturité,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Campina Grande (Boqueirão)
 CONCEIÇÃO,2504405,PB,ITAPORANGA,SERTÃO PARAIBANO,PARAÍBA,Conceição,Não_monitorado,1 Poço Conceição 2,Subterrâneo,Isolado,Conceição 2
-CONCEIÇÃO,2504405,PB,ITAPORANGA,SERTÃO PARAIBANO,PARAÍBA,Conceição,12430,Açude Serra Vermelha ,Superficial,Isolado,Conceição 1
-CONDADO,2504504,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Condado,12143/12261,Açude Coremas/Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+CONCEIÇÃO,2504405,PB,ITAPORANGA,SERTÃO PARAIBANO,PARAÍBA,Conceição,12430,Açude Serra Vermelha,Superficial,Isolado,Conceição 1
+CONDADO,2504504,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Condado,12261,Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+CONDADO,2504504,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Condado,12143,Açude Coremas,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 CONDADO,2504504,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Condado,12420,Açude São Mamede (Jatobá III),Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 CONDADO,2504504,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Condado,Não_monitorado,Açude Viados,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 CONDADO,2504504,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Condado,12101,Barragem Capoeira,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
@@ -723,7 +730,8 @@ CONDADO,2504504,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Condado,12179,Barragem Farin
 CONDADO,2504504,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Condado,12226,Barragem Jatobá I,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 CONDADO,2504504,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Condado,12396,Barragem Santa Luzia,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 CONGO,2504702,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Congo,12134,Açude Cordeiro,Superficial,Isolado,Congo
-COREMAS,2504801,PB,PIANCÓ,SERTÃO PARAIBANO,PARAÍBA,Coremas,12143/12261,Açude Coremas/Mãe D'Água,Superficial,Isolado,Coremas
+COREMAS,2504801,PB,PIANCÓ,SERTÃO PARAIBANO,PARAÍBA,Coremas,12261,Mãe D'Água,Superficial,Isolado,Coremas
+COREMAS,2504801,PB,PIANCÓ,SERTÃO PARAIBANO,PARAÍBA,Coremas,12143,Açude Coremas,Superficial,Isolado,Coremas
 COXIXOLA,2504850,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Coxixola,Não_monitorado,Açude Lagoa de Cima,Superficial,Isolado,Coxixola
 CUBATI,2505006,PB,SERIDÓ ORIENTAL PARAIBANO,BORBOREMA,PARAÍBA,Cubati,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Cariri
 CUITÉ,2505105,PB,CURIMATAÚ OCIDENTAL,AGRESTE PARAIBANO,PARAÍBA,Cuité,12067,Açude Boqueirão do Cais,Superficial,Integrado,Sistema Produtor Cuité- Nova Floresta
@@ -742,7 +750,7 @@ GURJÃO,2506509,PB,CARIRI ORIENTAL,BORBOREMA,PARAÍBA,Gurjão,12206,Açude Gurj�
 IBIARA,2506608,PB,ITAPORANGA,SERTÃO PARAIBANO,PARAÍBA,Ibiara,Não_monitorado,1 Poço Radial,Subterrâneo,Isolado,Ibiara
 IGARACY,2502607,PB,PIANCÓ,SERTÃO PARAIBANO,PARAÍBA,Igaracy,Não_monitorado,Açude Riacho dos Cochos,Superficial,Isolado,Igaracy
 IMACULADA,2506707,PB,SERRA DO TEIXEIRA,SERTÃO PARAIBANO,PARAÍBA,Imaculada,12011,Açude Albino,Superficial,Isolado,Imaculada
-INGÁ,2506806,PB,ITABAIANA,AGRESTE PARAIBANO,PARAÍBA,Ingá,12120,Açude Chã dos Pereiros,Superficial,Integrado,Sistema Produtor Integrado Chã dos Pereiros - Ingá 
+INGÁ,2506806,PB,ITABAIANA,AGRESTE PARAIBANO,PARAÍBA,Ingá,12120,Açude Chã dos Pereiros,Superficial,Integrado,Sistema Produtor Integrado Chã dos Pereiros - Ingá
 ITABAIANA,2506905,PB,ITABAIANA,AGRESTE PARAIBANO,PARAÍBA,Itabaiana,Não_monitorado,Açude Acauã-Mirim,Superficial,Integrado,Sistema Integrado Acauã Leste
 ITABAIANA,2506905,PB,ITABAIANA,AGRESTE PARAIBANO,PARAÍBA,Itabaiana,Não_monitorado,Rio Paraíba - PB,Superficial,Integrado,Sistema Produtor Integrado Itabaiana
 ITAPORANGA,2507002,PB,ITAPORANGA,SERTÃO PARAIBANO,PARAÍBA,Itaporanga,12079,Açude Cachoeira dos Alves,Superficial,Isolado,Itaporanga
@@ -752,12 +760,13 @@ JUAZEIRINHO,2507705,PB,SERIDÓ ORIENTAL PARAIBANO,BORBOREMA,PARAÍBA,Juazeirinho
 JUNCO DO SERIDÓ,2507804,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Junco do Seridó,Não_monitorado,Açude do Estado,Superficial,Isolado,Junco do Seridó
 JURU,2508000,PB,SERRA DO TEIXEIRA,SERTÃO PARAIBANO,PARAÍBA,Juru,12199,Barragem Glória,Superficial,Isolado,Juru
 LAGOA,2508109,PB,CATOLÉ DO ROCHA,SERTÃO PARAIBANO,PARAÍBA,Lagoa,12110,Açude Carneiro,Superficial,Isolado,Lagoa
-LAGOA SECA,2508307,PB,CAMPINA GRANDE,AGRESTE PARAIBANO,PARAÍBA,Lagoa Seca,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Campina Grande (Boqueirão) 
+LAGOA SECA,2508307,PB,CAMPINA GRANDE,AGRESTE PARAIBANO,PARAÍBA,Lagoa Seca,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Campina Grande (Boqueirão)
 LASTRO,2508406,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Lastro,Não_monitorado,1 Poço Lastro,Subterrâneo,Isolado,Lastro
 LIVRAMENTO,2508505,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Livramento,12255,Barragem Russo (Açude Livramento),Superficial,Isolado,Livramento
 LOGRADOURO,2508554,PB,GUARABIRA,AGRESTE PARAIBANO,PARAÍBA,Logradouro,12250,Barragem Lagoa do Matias,Superficial,Integrado,Sistema Produtor Integrado Lagoa do Matias
 MÃE D'ÁGUA,2508703,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,Mãe d'Água,Não_monitorado,1 Poço Amazona(Riacho Mãe D'água),Subterrâneo,Isolado,Mãe d'Água
-MALTA,2508802,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Malta,12143/12261,Açude Coremas/Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+MALTA,2508802,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Malta,12143,Açude Coremas,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+MALTA,2508802,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Malta,12261,Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 MALTA,2508802,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Malta,12420,Açude São Mamede (Jatobá III),Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 MALTA,2508802,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Malta,Não_monitorado,Açude Viados,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 MALTA,2508802,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Malta,12101,Barragem Capoeira,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
@@ -780,15 +789,16 @@ NATUBA,2509909,PB,UMBUZEIRO,AGRESTE PARAIBANO,PARAÍBA,Natuba,Não_monitorado,Ba
 NAZAREZINHO,2510006,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Nazarezinho,Não_monitorado,Rio Piranhas,Superficial,Isolado,Nazarezinho
 NOVA FLORESTA,2510105,PB,CURIMATAÚ OCIDENTAL,AGRESTE PARAIBANO,PARAÍBA,Nova Floresta,12067,Açude Boqueirão do Cais,Superficial,Integrado,Sistema Produtor Cuité- Nova Floresta
 NOVA OLINDA,2510204,PB,PIANCÓ,SERTÃO PARAIBANO,PARAÍBA,Nova Olinda,12387,Açude Saco,Superficial,Isolado,Nova Olinda
-NOVA PALMEIRA,2510303,PB,SERIDÓ ORIENTAL PARAIBANO,BORBOREMA,PARAÍBA,Nova Palmeira,12103,Açude Caraibeira ,Superficial,Isolado,Nova Palmeira
+NOVA PALMEIRA,2510303,PB,SERIDÓ ORIENTAL PARAIBANO,BORBOREMA,PARAÍBA,Nova Palmeira,12103,Açude Caraibeira,Superficial,Isolado,Nova Palmeira
 OLHO D'ÁGUA,2510402,PB,PIANCÓ,SERTÃO PARAIBANO,PARAÍBA,Olho d'Água,Não_monitorado,Açude Genipapeiro,Superficial,Isolado,Olho d'Água
 OLIVEDOS,2510501,PB,CURIMATAÚ OCIDENTAL,AGRESTE PARAIBANO,PARAÍBA,Olivedos,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Cariri
 OURO VELHO,2510600,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Ouro Velho,Não_monitorado,1 Poço Ouro Velho,Subterrâneo,Isolado,Isolado Ouro Velho
 OURO VELHO,2510600,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Ouro Velho,12422,Açude São Paulo,Superficial,Integrado,Integrado Ouro Velho - Prata
-PARARI,2510659,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Parari,Não_monitorado,1 Poço Amazonas (Rio Taperoá),Subterrâneo,Isolado,Parari 
-PARARI,2510659,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Parari,Não_monitorado,Açude Riacho do Balde,Superficial,Isolado,Parari 
+PARARI,2510659,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Parari,Não_monitorado,1 Poço Amazonas (Rio Taperoá),Subterrâneo,Isolado,Parari
+PARARI,2510659,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Parari,Não_monitorado,Açude Riacho do Balde,Superficial,Isolado,Parari
 PASSAGEM,2510709,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,Passagem,Não_monitorado,1 Poço Passagem,Subterrâneo,Isolado,Passagem
-PATOS,2510808,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,Patos,12143/12261,Açude Coremas/Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+PATOS,2510808,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,Patos,12143,Açude Coremas,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+PATOS,2510808,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,Patos,12261,Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 PATOS,2510808,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,Patos,12420,Açude São Mamede (Jatobá III),Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 PATOS,2510808,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,Patos,Não_monitorado,Açude Viados,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 PATOS,2510808,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,Patos,12101,Barragem Capoeira,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
@@ -799,9 +809,10 @@ PATOS,2510808,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,Patos,12396,Barragem Santa Luz
 PAULISTA,2510907,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Paulista,Não_monitorado,Poço Amazonas (Rio Piranhas),Subterrâneo,Isolado,Paulista
 PEDRA BRANCA,2511004,PB,ITAPORANGA,SERTÃO PARAIBANO,PARAÍBA,Pedra Branca,Não_monitorado,Açude Minador,Superficial,Isolado,Pedra Branca
 PEDRA LAVRADA,2511103,PB,SERIDÓ ORIENTAL PARAIBANO,BORBOREMA,PARAÍBA,Pedra Lavrada,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Cariri
-PIANCÓ,2511301,PB,PIANCÓ,SERTÃO PARAIBANO,PARAÍBA,Piancó,12143/12261,Açude Coremas/Mãe D'Água,Superficial,Isolado,Piancó
-PICUÍ,2511400,PB,SERIDÓ ORIENTAL PARAIBANO,BORBOREMA,PARAÍBA,Picuí,12485,Açude Várzea Grande,Superficial,Isolado,Isolado Picuí 
-POCINHOS,2512002,PB,CURIMATAÚ OCIDENTAL,AGRESTE PARAIBANO,PARAÍBA,Pocinhos,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Campina Grande (Boqueirão) 
+PIANCÓ,2511301,PB,PIANCÓ,SERTÃO PARAIBANO,PARAÍBA,Piancó,12143,Açude Coremas,Superficial,Isolado,Piancó
+PIANCÓ,2511301,PB,PIANCÓ,SERTÃO PARAIBANO,PARAÍBA,Piancó,12261,Mãe D'Água,Superficial,Isolado,Piancó
+PICUÍ,2511400,PB,SERIDÓ ORIENTAL PARAIBANO,BORBOREMA,PARAÍBA,Picuí,12485,Açude Várzea Grande,Superficial,Isolado,Isolado Picuí
+POCINHOS,2512002,PB,CURIMATAÚ OCIDENTAL,AGRESTE PARAIBANO,PARAÍBA,Pocinhos,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Campina Grande (Boqueirão)
 POÇO DANTAS,2512036,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,Poço Dantas,Não_monitorado,2 Poços Poços Dantas,Subterrâneo,Isolado,Poço Dantas
 POÇO DE JOSÉ DE MOURA,2512077,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,Poço de José de Moura,Não_monitorado,3 Poços Poço de José de Moura,Subterrâneo,Isolado,Poço de José de Moura
 POMBAL,2512101,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Pombal,Não_monitorado,Rio Piranhas,Superficial,Isolado,Pombal
@@ -809,12 +820,12 @@ PRATA,2512200,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Prata,Não_monitorado,1 Po�
 PRATA,2512200,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Prata,12357,Açude Prata II,Superficial,Isolado,Isolado Prata
 PRATA,2512200,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Prata,12422,Açude São Paulo,Superficial,Integrado,Integrado Ouro Velho - Prata
 PRINCESA ISABEL,2512309,PB,SERRA DO TEIXEIRA,SERTÃO PARAIBANO,PARAÍBA,Princesa Isabel,12227,Açude Jatobá II,Superficial,Isolado,Princesa Isabel
-PUXINANÃ,2512408,PB,CAMPINA GRANDE,AGRESTE PARAIBANO,PARAÍBA,Puxinanã,12278,Açude Milhã (Evaldo Gonçalves) ,Superficial,Isolado,Puxinanã
-QUEIMADAS,2512507,PB,CAMPINA GRANDE,AGRESTE PARAIBANO,PARAÍBA,Queimadas,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Campina Grande (Boqueirão) 
+PUXINANÃ,2512408,PB,CAMPINA GRANDE,AGRESTE PARAIBANO,PARAÍBA,Puxinanã,12278,Açude Milhã (Evaldo Gonçalves),Superficial,Isolado,Puxinanã
+QUEIMADAS,2512507,PB,CAMPINA GRANDE,AGRESTE PARAIBANO,PARAÍBA,Queimadas,12172,Açude Boqueirão (Epitácio Pessoa),Superficial,Integrado,Integrado Campina Grande (Boqueirão)
 QUIXABÁ,2512606,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,Quixabá,Não_monitorado,Açude Manoel Candeiras,Superficial,Isolado,Quixabá
 REMÍGIO,2512705,PB,CURIMATAÚ OCIDENTAL,AGRESTE PARAIBANO,PARAÍBA,Remígio,Não_monitorado,Açude Vaca Brava I e II,Superficial,Integrado,Integrado Guarim/ Vaca Brava
 RIACHÃO,2512747,PB,CURIMATAÚ ORIENTAL,AGRESTE PARAIBANO,PARAÍBA,Riachão,Não_monitorado,Açude Canafístula II,Superficial,Integrado,Sistema Produtor Integrado Cacimba de Várzea/ Canafístula II
-RIACHÃO DO BACAMARTE,2512754,PB,ITABAIANA,AGRESTE PARAIBANO,PARAÍBA,Riachão do Bacamarte,12120,Açude Chã dos Pereiros,Superficial,Integrado,Sistema Produtor Integrado Chã dos Pereiros - Ingá 
+RIACHÃO DO BACAMARTE,2512754,PB,ITABAIANA,AGRESTE PARAIBANO,PARAÍBA,Riachão do Bacamarte,12120,Açude Chã dos Pereiros,Superficial,Integrado,Sistema Produtor Integrado Chã dos Pereiros - Ingá
 RIACHO DE SANTO ANTÔNIO,2512788,PB,CARIRI ORIENTAL,BORBOREMA,PARAÍBA,Riacho de Santo Antônio,12377,Açude Riacho Santo Antônio,Superficial,Isolado,Riacho de Santo Antônio
 RIACHO DOS CAVALOS,2512804,PB,CATOLÉ DO ROCHA,SERTÃO PARAIBANO,PARAÍBA,Riacho dos Cavalos,12376,Açude Riacho dos Cavalos,Superficial,Isolado,Riacho dos Cavalos
 SALGADINHO,2513000,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Salgadinho,Não_monitorado,1 Poços Amazonas (Riacho Salgadinho),Subterrâneo,Isolado,Salgadinho
@@ -825,7 +836,8 @@ SANTA CRUZ,2513208,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,Santa Cruz,Não_monitorad
 SANTA HELENA,2513307,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,Santa Helena,Não_monitorado,1 Poço Santa Helena,Subterrâneo,Isolado,Isolado Santa Helena - PB
 SANTA HELENA,2513307,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,Santa Helena,12246,Açude Lagoa do Arroz,Superficial,Isolado,Isolado Santa Helena - PB
 SANTA INĘS,2513356,PB,ITAPORANGA,SERTÃO PARAIBANO,PARAÍBA,Santa Inês,Não_monitorado,1 Poço Santa Inês,Subterrâneo,Isolado,Santa Inês - PB
-SANTA LUZIA,2513406,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Santa Luzia,12143/12261,Açude Coremas/Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+SANTA LUZIA,2513406,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Santa Luzia,12143,Açude Coremas,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+SANTA LUZIA,2513406,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Santa Luzia,12261,Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SANTA LUZIA,2513406,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Santa Luzia,12420,Açude São Mamede (Jatobá III),Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SANTA LUZIA,2513406,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Santa Luzia,Não_monitorado,Açude Viados,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SANTA LUZIA,2513406,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Santa Luzia,12101,Barragem Capoeira,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
@@ -837,7 +849,8 @@ SANTA TERESINHA,2513802,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,Santa Teresinha,1210
 SANTANA DE MANGUEIRA,2513505,PB,ITAPORANGA,SERTÃO PARAIBANO,PARAÍBA,Santana de Mangueira,Não_monitorado,1 Poço Amazonas (Riacho Santana),Subterrâneo,Isolado,Santana de Mangueira
 SANTANA DOS GARROTES,2513604,PB,PIANCÓ,SERTÃO PARAIBANO,PARAÍBA,Santana dos Garrotes,12361,Barragem de Queimadas,Superficial,Isolado,Santana dos Garrotes
 SANTO ANDRÉ,2513851,PB,CARIRI ORIENTAL,BORBOREMA,PARAÍBA,Santo André,,,,Isolado,Santo André - Sem sistema de abastecimento de água
-SÃO BENTINHO,2513927,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,São Bentinho,12143/12261,Açude Coremas/Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+SÃO BENTINHO,2513927,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,São Bentinho,12261,Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+SÃO BENTINHO,2513927,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,São Bentinho,12143,Açude Coremas,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO BENTINHO,2513927,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,São Bentinho,12420,Açude São Mamede (Jatobá III),Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO BENTINHO,2513927,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,São Bentinho,Não_monitorado,Açude Viados,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO BENTINHO,2513927,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,São Bentinho,12101,Barragem Capoeira,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
@@ -850,12 +863,13 @@ SÃO DOMINGOS,2513968,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,São Domingos,Não_mon
 SÃO DOMINGOS DO CARIRI,2513943,PB,CARIRI ORIENTAL,BORBOREMA,PARAÍBA,São Domingos do Cariri,12406,Açude São Domingos,Superficial,Isolado,São Domingos do Cariri
 SÃO FRANCISCO,2513984,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,São Francisco,12408,Açude São Francisco,Superficial,Isolado,São Francisco
 SÃO JOÃO DO CARIRI,2514008,PB,CARIRI ORIENTAL,BORBOREMA,PARAÍBA,São João do Cariri,12134,Açude Cordeiro,Superficial,Integrado,Integrado Congo
-SÃO JOÃO DO RIO DO PEIXE,2500700,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,São João do Rio do Peixe,Não_monitorado,1 Poço São João do Rio do Peixe 2,Subterrâneo,Isolado,São João do Rio do Peixe 
-SÃO JOÃO DO RIO DO PEIXE,2500700,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,São João do Rio do Peixe,Não_monitorado,Açude Chupadouro I,Superficial,Isolado,São João do Rio do Peixe 
+SÃO JOÃO DO RIO DO PEIXE,2500700,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,São João do Rio do Peixe,Não_monitorado,1 Poço São João do Rio do Peixe 2,Subterrâneo,Isolado,São João do Rio do Peixe
+SÃO JOÃO DO RIO DO PEIXE,2500700,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,São João do Rio do Peixe,Não_monitorado,Açude Chupadouro I,Superficial,Isolado,São João do Rio do Peixe
 SÃO JOÃO DO TIGRE,2514107,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,São João do Tigre,Não_monitorado,1 Poço São João do Tigre,Subterrâneo,Isolado,São João do Tigre
 SÃO JOSÉ DA LAGOA TAPADA,2514206,PB,SOUSA,SERTÃO PARAIBANO,PARAÍBA,São José da Lagoa Tapada,Não_monitorado,Açude Genipapeiro,Superficial,Isolado,São José da Lagoa Tapada
 SÃO JOSÉ DE CAIANA,2514305,PB,ITAPORANGA,SERTÃO PARAIBANO,PARAÍBA,São José de Caiana,12331,Açude Pimenta,Superficial,Isolado,São José de Caiana
-SÃO JOSÉ DE ESPINHARAS,2514404,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,São José de Espinharas,12143/12261,Açude Coremas/Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+SÃO JOSÉ DE ESPINHARAS,2514404,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,São José de Espinharas,12143,Açude Coremas,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+SÃO JOSÉ DE ESPINHARAS,2514404,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,São José de Espinharas,12261,Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO JOSÉ DE ESPINHARAS,2514404,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,São José de Espinharas,12420,Açude São Mamede (Jatobá III),Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO JOSÉ DE ESPINHARAS,2514404,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,São José de Espinharas,Não_monitorado,Açude Viados,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO JOSÉ DE ESPINHARAS,2514404,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,São José de Espinharas,12101,Barragem Capoeira,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
@@ -867,7 +881,8 @@ SÃO JOSÉ DE PIRANHAS,2514503,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,São Jos
 SÃO JOSÉ DE PRINCESA,2514552,PB,SERRA DO TEIXEIRA,SERTÃO PARAIBANO,PARAÍBA,São José de Princesa,,,,Isolado,São José de Princesa - Sem Informação
 SÃO JOSÉ DO BONFIM,2514602,PB,PATOS,SERTÃO PARAIBANO,PARAÍBA,São José do Bonfim,Não_monitorado,Poços São José do Bonfim,Subterrâneo,Isolado,São José do Bonfim
 SÃO JOSÉ DO BREJO DO CRUZ,2514651,PB,CATOLÉ DO ROCHA,SERTÃO PARAIBANO,PARAÍBA,São José do Brejo do Cruz,,,,Isolado,São José do Brejo do Cruz - Sem sistema de abastecimento de água
-SÃO JOSÉ DO SABUGI,2514701,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São José do Sabugi,12143/12261,Açude Coremas/Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+SÃO JOSÉ DO SABUGI,2514701,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São José do Sabugi,12261,Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+SÃO JOSÉ DO SABUGI,2514701,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São José do Sabugi,12143,Açude Coremas,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO JOSÉ DO SABUGI,2514701,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São José do Sabugi,12420,Açude São Mamede (Jatobá III),Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO JOSÉ DO SABUGI,2514701,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São José do Sabugi,Não_monitorado,Açude Viados,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO JOSÉ DO SABUGI,2514701,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São José do Sabugi,12101,Barragem Capoeira,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
@@ -876,7 +891,8 @@ SÃO JOSÉ DO SABUGI,2514701,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,S
 SÃO JOSÉ DO SABUGI,2514701,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São José do Sabugi,12226,Barragem Jatobá I,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO JOSÉ DO SABUGI,2514701,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São José do Sabugi,12396,Barragem Santa Luzia,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO JOSÉ DOS CORDEIROS,2514800,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,São José dos Cordeiros,12417,Açude São José III,Superficial,Isolado,São José dos Cordeiros
-SÃO MAMEDE,2514909,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São Mamede,12143/12261,Açude Coremas/Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+SÃO MAMEDE,2514909,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São Mamede,12143,Açude Coremas,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+SÃO MAMEDE,2514909,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São Mamede,12261,Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO MAMEDE,2514909,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São Mamede,12420,Açude São Mamede (Jatobá III),Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO MAMEDE,2514909,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São Mamede,Não_monitorado,Açude Viados,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 SÃO MAMEDE,2514909,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,São Mamede,12101,Barragem Capoeira,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
@@ -898,12 +914,13 @@ TAPEROÁ,2516508,PB,CARIRI OCIDENTAL,BORBOREMA,PARAÍBA,Taperoá,12451,Açude Ma
 TAVARES,2516607,PB,SERRA DO TEIXEIRA,SERTÃO PARAIBANO,PARAÍBA,Tavares,12294,Açude Novo II,Superficial,Isolado,Tavares
 TEIXEIRA,2516706,PB,SERRA DO TEIXEIRA,SERTÃO PARAIBANO,PARAÍBA,Teixeira,12408,Açude São Francisco,Superficial,Isolado,Teixeira
 TEIXEIRA,2516706,PB,SERRA DO TEIXEIRA,SERTÃO PARAIBANO,PARAÍBA,Teixeira,12047,Barragem Bastiana,Superficial,Isolado,Teixeira
-TEIXEIRA,2516706,PB,SERRA DO TEIXEIRA,SERTÃO PARAIBANO,PARAÍBA,Teixeira,12372,Riacho das Moças ,Superficial,Isolado,Teixeira
+TEIXEIRA,2516706,PB,SERRA DO TEIXEIRA,SERTÃO PARAIBANO,PARAÍBA,Teixeira,12372,Riacho das Moças,Superficial,Isolado,Teixeira
 TENÓRIO,2516755,PB,SERIDÓ ORIENTAL PARAIBANO,BORBOREMA,PARAÍBA,Tenório,,,,Isolado,Tenório - Sem sistema de abastecimento de água
 TRIUNFO,2516805,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,Triunfo,12193,Açude Gamelas,Superficial,Isolado,Triunfo
 UIRAÚNA,2516904,PB,CAJAZEIRAS,SERTÃO PARAIBANO,PARAÍBA,Uiraúna,12035,Açude Arrojado,Superficial,Isolado,Uiraúna
 UMBUZEIRO,2517001,PB,UMBUZEIRO,AGRESTE PARAIBANO,PARAÍBA,Umbuzeiro,Não_monitorado,Riacho Orodongo,Superficial,Isolado,Umbuzeiro
-VÁRZEA,2517100,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Várzea,12143/12261,Açude Coremas/Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+VÁRZEA,2517100,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Várzea,12143,Açude Coremas,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
+VÁRZEA,2517100,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Várzea,12261,Mãe D'Água,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 VÁRZEA,2517100,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Várzea,12420,Açude São Mamede (Jatobá III),Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 VÁRZEA,2517100,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Várzea,Não_monitorado,Açude Viados,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
 VÁRZEA,2517100,PB,SERIDÓ OCIDENTAL PARAIBANO,BORBOREMA,PARAÍBA,Várzea,12101,Barragem Capoeira,Superficial,Integrado,Sistema Produtor Integrado Coremas- Sabugi
@@ -923,7 +940,7 @@ AFRÂNIO,2600203,PE,PETROLINA,SÃO FRANCISCO PERNAMBUCANO,PERNAMBUCO,Afrânio,N�
 AGRESTINA,2600302,PE,BREJO PERNAMBUCANO,AGRESTE PERNAMBUCANO,PERNAMBUCO,Agrestina,Não_monitorado,Açude Prata,Superficial,Integrado,Integrado Prata-Camevô - Agrestina
 AGRESTINA,2600302,PE,BREJO PERNAMBUCANO,AGRESTE PERNAMBUCANO,PERNAMBUCO,Agrestina,Não_monitorado,Barragem Serra do Jardim,Superficial,Integrado,Integrado Prata-Camevô - Agrestina
 AGRESTINA,2600302,PE,BREJO PERNAMBUCANO,AGRESTE PERNAMBUCANO,PERNAMBUCO,Agrestina,Não_monitorado,Rio Camevô,Superficial,Integrado,Integrado Prata-Camevô - Agrestina
-ÁGUAS BELAS,2600500,PE,VALE DO IPANEMA,AGRESTE PERNAMBUCANO,PERNAMBUCO,Águas Belas,Não_monitorado,Açude Comunati ,Superficial,Isolado,Isolado Águas Belas
+ÁGUAS BELAS,2600500,PE,VALE DO IPANEMA,AGRESTE PERNAMBUCANO,PERNAMBUCO,Águas Belas,Não_monitorado,Açude Comunati,Superficial,Isolado,Isolado Águas Belas
 ÁGUAS BELAS,2600500,PE,VALE DO IPANEMA,AGRESTE PERNAMBUCANO,PERNAMBUCO,Águas Belas,Não_monitorado,Barragem Lamarão,Superficial,Isolado,Isolado Águas Belas
 ALAGOINHA,2600609,PE,VALE DO IPOJUCA,AGRESTE PERNAMBUCANO,PERNAMBUCO,Alagoinha,12212,Barragem Ipaneminha,Superficial,Integrado,Integrado Ipaneminha
 ALTINHO,2600807,PE,BREJO PERNAMBUCANO,AGRESTE PERNAMBUCANO,PERNAMBUCO,Altinho,Não_monitorado,Barragem Maracujá,Superficial,Integrado,Integrado Ibirajuba - Altinho
@@ -982,7 +999,7 @@ CASINHAS,2604155,PE,ALTO CAPIBARIBE,AGRESTE PERNAMBUCANO,PERNAMBUCO,Casinhas,122
 CEDRO,2604304,PE,SALGUEIRO,SERTÃO PERNAMBUCANO,PERNAMBUCO,Cedro,12045,Barragem Barrinha,Superficial,Isolado,Isolado Cedro
 CEDRO,2604304,PE,SALGUEIRO,SERTÃO PERNAMBUCANO,PERNAMBUCO,Cedro,Não_monitorado,Poços Cedro,Subterrâneo,Isolado,Isolado Cedro
 CHÃ GRANDE,2604502,PE,VITÓRIA DE SANTO ANTÃO,MATA PERNAMBUCANA,PERNAMBUCO,Chã Grande,Não_monitorado,Barragem Macacos,Superficial,Isolado,Isolado Chã Grande
-CHÃ GRANDE,2604502,PE,VITÓRIA DE SANTO ANTÃO,MATA PERNAMBUCANA,PERNAMBUCO,Chã Grande,Não_monitorado,Barragem Siriquita ,Superficial,Isolado,Isolado Chã Grande
+CHÃ GRANDE,2604502,PE,VITÓRIA DE SANTO ANTÃO,MATA PERNAMBUCANA,PERNAMBUCO,Chã Grande,Não_monitorado,Barragem Siriquita,Superficial,Isolado,Isolado Chã Grande
 CORRENTES,2604700,PE,GARANHUNS,AGRESTE PERNAMBUCANO,PERNAMBUCO,Correntes,Não_monitorado,Barragem Riacho Correntes,Superficial,Isolado,Isolado Correntes
 CUMARU,2604908,PE,MÉDIO CAPIBARIBE,AGRESTE PERNAMBUCANO,PERNAMBUCO,Cumaru,12243,Açude Jucazinho,Superficial,Integrado,Integrado Jucazinho
 CUPIRA,2605004,PE,BREJO PERNAMBUCANO,AGRESTE PERNAMBUCANO,PERNAMBUCO,Cupira,Não_monitorado,Açude Cajueiro,Superficial,Integrado,Integrado Cajueiro - Cupira
@@ -1004,7 +1021,7 @@ GRAVATÁ,2606408,PE,VALE DO IPOJUCA,AGRESTE PERNAMBUCANO,PERNAMBUCO,Gravatá,122
 GRAVATÁ,2606408,PE,VALE DO IPOJUCA,AGRESTE PERNAMBUCANO,PERNAMBUCO,Gravatá,Não_monitorado,Açude Riacho Clíper,Superficial,Isolado,Isolado Gravatá
 GRAVATÁ,2606408,PE,VALE DO IPOJUCA,AGRESTE PERNAMBUCANO,PERNAMBUCO,Gravatá,Não_monitorado,Barragem Amaraji,Superficial,Isolado,Isolado Gravatá
 GRAVATÁ,2606408,PE,VALE DO IPOJUCA,AGRESTE PERNAMBUCANO,PERNAMBUCO,Gravatá,Não_monitorado,Barragem Boa Vista (Sairé),Superficial,Integrado,Integrado Bezerros - Gravatá
-GRAVATÁ,2606408,PE,VALE DO IPOJUCA,AGRESTE PERNAMBUCANO,PERNAMBUCO,Gravatá,Não_monitorado,Barragem Brejinho ,Superficial,Isolado,Isolado Gravatá
+GRAVATÁ,2606408,PE,VALE DO IPOJUCA,AGRESTE PERNAMBUCANO,PERNAMBUCO,Gravatá,Não_monitorado,Barragem Brejinho,Superficial,Isolado,Isolado Gravatá
 GRAVATÁ,2606408,PE,VALE DO IPOJUCA,AGRESTE PERNAMBUCANO,PERNAMBUCO,Gravatá,Não_monitorado,Barragem Vertentes,Superficial,Isolado,Isolado Gravatá
 GRAVATÁ,2606408,PE,VALE DO IPOJUCA,AGRESTE PERNAMBUCANO,PERNAMBUCO,Gravatá,Não_monitorado,Rio Sirinhaém,Superficial,Integrado,Integrado Bezerros - Gravatá
 IATI,2606507,PE,GARANHUNS,AGRESTE PERNAMBUCANO,PERNAMBUCO,Iati,Não_monitorado,Fonte Campo Sujo,Subterrâneo,Isolado,Isolado Iati
@@ -1114,7 +1131,7 @@ TERRA NOVA,2615201,PE,PETROLINA,SÃO FRANCISCO PERNAMBUCANO,PERNAMBUCO,Terra Nov
 TORITAMA,2615409,PE,ALTO CAPIBARIBE,AGRESTE PERNAMBUCANO,PERNAMBUCO,Toritama,12243,Açude Jucazinho,Superficial,Integrado,Integrado Tabocas - Toritama
 TORITAMA,2615409,PE,ALTO CAPIBARIBE,AGRESTE PERNAMBUCANO,PERNAMBUCO,Toritama,12169,Açude Tabocas (Eng. G Pontes),Superficial,Integrado,Integrado Tabocas - Toritama
 TRINDADE,2615607,PE,ARARIPINA,SERTÃO PERNAMBUCANO,PERNAMBUCO,Trindade,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado do Oeste
-TRIUNFO,2615706,PE,PAJEÚ,SERTÃO PERNAMBUCANO,PERNAMBUCO,Triunfo,Não_monitorado,Barragem Brejinho ,Superficial,Isolado,Isolado Triunfo
+TRIUNFO,2615706,PE,PAJEÚ,SERTÃO PERNAMBUCANO,PERNAMBUCO,Triunfo,Não_monitorado,Barragem Brejinho,Superficial,Isolado,Isolado Triunfo
 TUPANATINGA,2615805,PE,VALE DO IPANEMA,AGRESTE PERNAMBUCANO,PERNAMBUCO,Tupanatinga,Não_monitorado,Poços de Tupanatinga,Subterrâneo,Integrado,Integrado Tupanatinga/ Itaíba
 TUPARETAMA,2615904,PE,PAJEÚ,SERTÃO PERNAMBUCANO,PERNAMBUCO,Tuparetama,12061,Açude Bom Sucesso,Superficial,Isolado,Isolado Tuparetama
 TUPARETAMA,2615904,PE,PAJEÚ,SERTÃO PERNAMBUCANO,PERNAMBUCO,Tuparetama,12383,Açude Rosário - PE,Superficial,Isolado,Isolado Tuparetama
@@ -1255,7 +1272,7 @@ VÁRZEA BRANCA,2211357,PI,SÃO RAIMUNDO NONATO,SUDOESTE PIAUIENSE,PIAUÍ,Várzea
 VERA MENDES,2211506,PI,ALTO MÉDIO CANINDÉ,SUDESTE PIAUIENSE,PIAUÍ,Vera Mendes,Não_monitorado,Poços Vera Mendes,Subterrâneo,Isolado,Vera Mendes
 VILA NOVA DO PIAUÍ,2211605,PI,ALTO MÉDIO CANINDÉ,SUDESTE PIAUIENSE,PIAUÍ,Vila Nova do Piauí,Não_monitorado,Poços Vila Nova do Piauí,Subterrâneo,Isolado,Vila Nova do Piauí
 WALL FERRAZ,2211704,PI,PICOS,SUDESTE PIAUIENSE,PIAUÍ,Wall Ferraz,Não_monitorado,Poços Wall Ferraz,Subterrâneo,Isolado,Wall Ferraz
-ACARI,2400109,RN,SERIDÓ ORIENTAL,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Acari,12271,Açude Mal. Dutra (Gargalheiras) ,Superficial,Integrado,Acari - Currais Novos
+ACARI,2400109,RN,SERIDÓ ORIENTAL,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Acari,12271,Açude Mal. Dutra (Gargalheiras),Superficial,Integrado,Acari - Currais Novos
 AÇU,2400208,RN,VALE DO AÇU,OESTE POTIGUAR,RIO GRANDE DO NORTE,Açu,Não_monitorado,Rio Açu,Superficial,Isolado,Açu
 AFONSO BEZERRA,2400307,RN,ANGICOS,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Afonso Bezerra,Não_monitorado,2 Poços Afonso Bezerra,Subterrâneo,Isolado,Afonso Bezerra
 ÁGUA NOVA,2400406,RN,SERRA DE SÃO MIGUEL,OESTE POTIGUAR,RIO GRANDE DO NORTE,Água Nova,Não_monitorado,01  Poço ( AMAZONAS) Água Nova,Subterrâneo,Isolado,Água Nova
@@ -1272,7 +1289,7 @@ BARCELONA,2401503,RN,BORBOREMA POTIGUAR,AGRESTE POTIGUAR,RIO GRANDE DO NORTE,Bar
 BENTO FERNANDES,2401602,RN,BAIXA VERDE,AGRESTE POTIGUAR,RIO GRANDE DO NORTE,Bento Fernandes,Não_monitorado,Lagoa Pureza,Subterrâneo,Integrado,Integrado Pureza - João Câmara
 BODÓ,2401651,RN,SERRA DE SANTANA,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Bodó,12164,Barragem Armando Ribeiro Gonçalves,Superficial,Integrado,Serra de Santana
 BOM JESUS,2401701,RN,AGRESTE POTIGUAR,AGRESTE POTIGUAR,RIO GRANDE DO NORTE,Bom Jesus,Não_monitorado,Lagoa do Bonfim Subterrâneo,Subterrâneo,Integrado,Monsenhor Expedito
-BREJINHO,2401800,RN,AGRESTE POTIGUAR,AGRESTE POTIGUAR,RIO GRANDE DO NORTE,Brejinho,Não_monitorado,Açude Araraí ,Superficial,Isolado,Brejinho
+BREJINHO,2401800,RN,AGRESTE POTIGUAR,AGRESTE POTIGUAR,RIO GRANDE DO NORTE,Brejinho,Não_monitorado,Açude Araraí,Superficial,Isolado,Brejinho
 CAIÇARA DO NORTE,2401859,RN,MACAU,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Caiçara do Norte,Não_monitorado,Lagoa Boqueirão - Poços,Subterrâneo,Integrado,Boqueirão
 CAIÇARA DO RIO DO VENTO,2401909,RN,ANGICOS,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Caiçara do Rio do Vento,Não_monitorado,Canal de Pataxó,Superficial,Integrado,Sertão Central Cabugi
 CAICÓ,2402006,RN,SERIDÓ OCIDENTAL,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Caicó,Não_monitorado,Rio Piranhas,Superficial,Integrado,Piranhas - Caicó
@@ -1284,7 +1301,7 @@ CERRO CORÁ,2402709,RN,SERRA DE SANTANA,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Cer
 CORONEL EZEQUIEL,2402808,RN,BORBOREMA POTIGUAR,AGRESTE POTIGUAR,RIO GRANDE DO NORTE,Coronel Ezequiel,Não_monitorado,Lagoa do Bonfim Subterrâneo,Subterrâneo,Integrado,Monsenhor Expedito
 CORONEL JOÃO PESSOA,2402907,RN,SERRA DE SÃO MIGUEL,OESTE POTIGUAR,RIO GRANDE DO NORTE,Coronel João Pessoa,Não_monitorado,Açude Caldeirão,Superficial,Isolado,Coronel João Pessoa
 CRUZETA,2403004,RN,SERIDÓ ORIENTAL,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Cruzeta,12140,Açude Cruzeta,Superficial,Isolado,Cruzeta
-CURRAIS NOVOS,2403103,RN,SERIDÓ ORIENTAL,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Currais Novos,12271,Açude Mal. Dutra (Gargalheiras) ,Superficial,Integrado,Acari - Currais Novos
+CURRAIS NOVOS,2403103,RN,SERIDÓ ORIENTAL,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Currais Novos,12271,Açude Mal. Dutra (Gargalheiras),Superficial,Integrado,Acari - Currais Novos
 DOUTOR SEVERIANO,2403202,RN,SERRA DE SÃO MIGUEL,OESTE POTIGUAR,RIO GRANDE DO NORTE,Doutor Severiano,Não_monitorado,Açude Merejo,Superficial,Isolado,Doutor Severiano
 ENCANTO,2403301,RN,SERRA DE SÃO MIGUEL,OESTE POTIGUAR,RIO GRANDE DO NORTE,Encanto,Não_monitorado,"03  Poços Tubulares(Margem do Rio Encanto), dois desativados",Subterrâneo,Isolado,Encanto
 EQUADOR,2403400,RN,SERIDÓ ORIENTAL,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Equador,Não_monitorado,Açude Mamão,Superficial,Isolado,Equador
@@ -1293,7 +1310,7 @@ FERNANDO PEDROZA,2403756,RN,ANGICOS,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Fernand
 FLORÂNIA,2403806,RN,SERRA DE SANTANA,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Florânia,12164,Barragem Armando Ribeiro Gonçalves,Superficial,Integrado,Serra de Santana
 FRANCISCO DANTAS,2403905,RN,PAU DOS FERROS,OESTE POTIGUAR,RIO GRANDE DO NORTE,Francisco Dantas,12458,Açude Tesoura,Superficial,Isolado,Francisco Dantas
 FRUTUOSO GOMES,2404002,RN,UMARIZAL,OESTE POTIGUAR,RIO GRANDE DO NORTE,Frutuoso Gomes,12257,Acude Lucrecia,Superficial,Isolado,Frutuoso Gomes
-GALINHOS,2404101,RN,MACAU,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Galinhos,,,,Isolado,Galinhos - Sem sistema 
+GALINHOS,2404101,RN,MACAU,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Galinhos,,,,Isolado,Galinhos - Sem sistema
 GOVERNADOR DIX-SEPT ROSADO,2404309,RN,CHAPADA DO APODI,OESTE POTIGUAR,RIO GRANDE DO NORTE,Governador Dix-Sept Rosado,Não_monitorado,01  Poços Tubular Governador Dix-Sept Rosado,Subterrâneo,Isolado,Governador Dix-Sept Rosado
 GROSSOS,2404408,RN,MOSSORÓ,OESTE POTIGUAR,RIO GRANDE DO NORTE,Grossos,Não_monitorado,Poços Grossos,Subterrâneo,Isolado,Grossos
 GUAMARÉ,2404507,RN,MACAU,CENTRAL POTIGUAR,RIO GRANDE DO NORTE,Guamaré,Não_monitorado,Rio Açu,Superficial,Integrado,Guamaré - Macau
@@ -1415,7 +1432,7 @@ VIÇOSA,2414902,RN,PAU DOS FERROS,OESTE POTIGUAR,RIO GRANDE DO NORTE,Viçosa,123
 AMPARO DE SÃO FRANCISCO,2800100,SE,PROPRIÁ,LESTE SERGIPANO,SERGIPE,Amparo de São Francisco,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Sertaneja
 AQUIDABÃ,2800209,SE,NOSSA SENHORA DAS DORES,AGRESTE SERGIPANO,SERGIPE,Aquidabã,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Sertaneja
 CANHOBA,2801108,SE,PROPRIÁ,LESTE SERGIPANO,SERGIPE,Canhoba,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Sertaneja
-CANINDÉ DE SÃO FRANCISCO,2801207,SE,SERGIPANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO SERGIPANO,SERGIPE,Canindé de São Francisco,Não_monitorado,Barragem do Xingó ,Superficial,Isolado,Canindé do São Francisco - Califórnia I
+CANINDÉ DE SÃO FRANCISCO,2801207,SE,SERGIPANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO SERGIPANO,SERGIPE,Canindé de São Francisco,Não_monitorado,Barragem do Xingó,Superficial,Isolado,Canindé do São Francisco - Califórnia I
 CARIRA,2801405,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Carira,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Alto-Sertão
 CARIRA,2801405,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Carira,,,,Integrado,Integrado Alto-Sertão/ Sertaneja - Jusante N.S. da Glória
 CARIRA,2801405,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Carira,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Sertaneja
@@ -1425,7 +1442,7 @@ FEIRA NOVA,2802205,SE,SERGIPANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO SERGIPANO,S
 FREI PAULO,2802304,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Frei Paulo,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Alto-Sertão
 FREI PAULO,2802304,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Frei Paulo,,,,Integrado,Integrado Alto-Sertão/ Sertaneja - Jusante N.S. da Glória
 FREI PAULO,2802304,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Frei Paulo,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Sertaneja
-GARARU,2802403,SE,SERGIPANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO SERGIPANO,SERGIPE,Gararu,Não_monitorado,Rio São Francisco,Superficial,Isolado,Gararu  
+GARARU,2802403,SE,SERGIPANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO SERGIPANO,SERGIPE,Gararu,Não_monitorado,Rio São Francisco,Superficial,Isolado,Gararu
 GRACHO CARDOSO,2802601,SE,SERGIPANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO SERGIPANO,SERGIPE,Gracho Cardoso,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Sertaneja
 ITABI,2803104,SE,SERGIPANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO SERGIPANO,SERGIPE,Itabi,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Sertaneja
 MACAMBIRA,2803708,SE,AGRESTE DE ITABAIANA,AGRESTE SERGIPANO,SERGIPE,Macambira,Não_monitorado,Riacho Ribeira,Superficial,Integrado,Integrado Agreste
@@ -1438,7 +1455,7 @@ NOSSA SENHORA APARECIDA,2804458,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Nossa Senhor
 NOSSA SENHORA DA GLÓRIA,2804508,SE,SERGIPANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO SERGIPANO,SERGIPE,Nossa Senhora da Glória,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Alto-Sertão
 NOSSA SENHORA DA GLÓRIA,2804508,SE,SERGIPANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO SERGIPANO,SERGIPE,Nossa Senhora da Glória,,,,Integrado,Integrado Alto-Sertão/ Sertaneja - Jusante N.S. da Glória
 NOSSA SENHORA DA GLÓRIA,2804508,SE,SERGIPANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO SERGIPANO,SERGIPE,Nossa Senhora da Glória,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Sertaneja
-NOSSA SENHORA DAS DORES,2804607,SE,NOSSA SENHORA DAS DORES,AGRESTE SERGIPANO,SERGIPE,Nossa Senhora das Dores,Não_monitorado,Rio Siriri,Superficial,Isolado,Nossa Senhora das Dores 
+NOSSA SENHORA DAS DORES,2804607,SE,NOSSA SENHORA DAS DORES,AGRESTE SERGIPANO,SERGIPE,Nossa Senhora das Dores,Não_monitorado,Rio Siriri,Superficial,Isolado,Nossa Senhora das Dores
 NOSSA SENHORA DE LOURDES,2804706,SE,PROPRIÁ,LESTE SERGIPANO,SERGIPE,Nossa Senhora de Lourdes,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Sertaneja
 PEDRA MOLE,2805000,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Pedra Mole,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Alto-Sertão
 PEDRA MOLE,2805000,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Pedra Mole,,,,Integrado,Integrado Alto-Sertão/ Sertaneja - Jusante N.S. da Glória
@@ -1447,10 +1464,10 @@ PINHÃO,2805208,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Pinhão,Não_monitorado,Rio 
 PINHÃO,2805208,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Pinhão,,,,Integrado,Integrado Alto-Sertão/ Sertaneja - Jusante N.S. da Glória
 PINHÃO,2805208,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Pinhão,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Sertaneja
 POÇO REDONDO,2805406,SE,SERGIPANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO SERGIPANO,SERGIPE,Poço Redondo,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Alto-Sertão
-POÇO VERDE,2805505,SE,TOBIAS BARRETO,AGRESTE SERGIPANO,SERGIPE,Poço Verde,Não_monitorado,Poços de Poço Verde (BA),Subterrâneo,Isolado,Poço Verde 
+POÇO VERDE,2805505,SE,TOBIAS BARRETO,AGRESTE SERGIPANO,SERGIPE,Poço Verde,Não_monitorado,Poços de Poço Verde (BA),Subterrâneo,Isolado,Poço Verde
 PORTO DA FOLHA,2805604,SE,SERGIPANA DO SERTÃO DO SÃO FRANCISCO,SERTÃO SERGIPANO,SERGIPE,Porto da Folha,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Alto-Sertão
 PROPRIÁ,2805703,SE,PROPRIÁ,LESTE SERGIPANO,SERGIPE,Propriá,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Propriá
-RIBEIRÓPOLIS,2806008,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Ribeirópolis,Não_monitorado,Poços de Ribeirópolis,Subterrâneo,Isolado,Ribeirópolis 
+RIBEIRÓPOLIS,2806008,SE,CARIRA,SERTÃO SERGIPANO,SERGIPE,Ribeirópolis,Não_monitorado,Poços de Ribeirópolis,Subterrâneo,Isolado,Ribeirópolis
 SÃO MIGUEL DO ALEIXO,2807006,SE,NOSSA SENHORA DAS DORES,AGRESTE SERGIPANO,SERGIPE,São Miguel do Aleixo,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Alto-Sertão
 SÃO MIGUEL DO ALEIXO,2807006,SE,NOSSA SENHORA DAS DORES,AGRESTE SERGIPANO,SERGIPE,São Miguel do Aleixo,,,,Integrado,Integrado Alto-Sertão/ Sertaneja - Jusante N.S. da Glória
 SÃO MIGUEL DO ALEIXO,2807006,SE,NOSSA SENHORA DAS DORES,AGRESTE SERGIPANO,SERGIPE,São Miguel do Aleixo,Não_monitorado,Rio São Francisco,Superficial,Integrado,Integrado Sertaneja
