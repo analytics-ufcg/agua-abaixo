@@ -24,18 +24,12 @@ abastecimento = load_abastecimento("../olhonagua/abastecimento_municipio.csv") %
 #readr::write_csv(historicos, "../olhonagua/historicos_reservatorios.csv")
 
 # Para reutilizar os dados:
-historicos = read_csv("../olhonagua/historicos_reservatorios.csv")
-historicos = historicos %>% 
-    filter(Ano >= 2012, complete.cases(historicos))
+historicos = read_csv("../olhonagua/historicos_reservatorios.csv") 
 ```
 
 ```{r}
 historicos = historicos %>% 
-    group_by(id) %>% 
-    arrange(Data) %>% 
-    mutate(sofrendo = !any(Ano >= 2015 & VolumePercentual > 60), 
-           Volume = as.numeric(Volume),
-           delta = c(0, diff(Volume))) 
+    limpa_e_add_sofrendo_delta()
     
 h2 = historicos %>% 
     ggplot(aes(x = Data, y = VolumePercentual, group = id)) + 
@@ -47,24 +41,7 @@ ggplotly(h2)
 
 ```{r}
 decidas = historicos %>% 
-    group_by(id) %>% 
-    arrange(Data) %>% 
-    filter(delta < 0 | 
-               lead(delta) < 0 | 
-               (lead(delta) == 0 & delta < 0) | 
-               (delta == 0 & lag(delta) <0)) 
-
-decidas = decidas %>% 
-    group_by(id) %>% 
-    arrange(Data) %>% 
-    mutate(inicio = (Data == first(Data)) | 
-               delta > 0 |  
-               as.period(Data - lag(Data)) > days(60), 
-           fim = (Data == last(Data)) | lead(delta) > 0)  %>% 
-    ungroup() %>% 
-    arrange(id, Data) %>% 
-    mutate(sequencia = cumsum(inicio)) %>% 
-    filter(abs(delta) < 100)
+    filtra_decidas()
 
 d = decidas %>% 
     ggplot(aes(x = Data, y = VolumePercentual, group = sequencia)) + 
@@ -81,13 +58,17 @@ ggplotly(d2)
 
 ```{r}
 sumario = decidas %>% 
-    group_by(sequencia) %>% 
-    filter(Data == first(Data) | Data == last(Data)) %>% 
-    filter(n() == 2)
+    cria_seqs_inicio_fim()
 
 sumario %>% 
     select(id, Data, Volume, VolumePercentual, sofrendo, sequencia) %>% 
     write_csv("../olhonagua/periodos_de_consumo.csv")
+```
+
+
+```{r}
+consumos = read_csv("../olhonagua/periodos_de_consumo.csv")
+
 ```
 
 
