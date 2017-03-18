@@ -6,6 +6,8 @@ output: html_notebook
 ```{r}
 library(dplyr, warn.conflicts = FALSE)
 library(ggplot2)
+theme_set(theme_bw())
+library(plotly)
 library(jsonlite)
 library(lubridate)
 source("olhonagua-lib.R")
@@ -15,7 +17,7 @@ source("olhonagua-lib.R")
 ```{r}
 abastecimento = load_abastecimento("../olhonagua/abastecimento_municipio.csv") %>% 
     mutate(id_num = as.numeric(COD_ANA)) %>% 
-    filter(!is.na(id_num)) # TODO : Resolver municípios com COD / COD
+    filter(!is.na(id_num)) 
 
 # Para obter os históricos da API do Olho N'Água:
 #historicos = get_repositorios(unique(abastecimento$id_num))
@@ -23,7 +25,74 @@ abastecimento = load_abastecimento("../olhonagua/abastecimento_municipio.csv") %
 
 # Para reutilizar os dados:
 historicos = read_csv("../olhonagua/historicos_reservatorios.csv")
+historicos = historicos %>% 
+    filter(Ano >= 2012, complete.cases(historicos))
 ```
+
+```{r}
+historicos = historicos %>% 
+    group_by(id) %>% 
+    arrange(Data) %>% 
+    mutate(sofrendo = !any(Ano >= 2015 & VolumePercentual > 60), 
+           Volume = as.numeric(Volume),
+           delta = c(0, diff(Volume))) 
+    
+h2 = historicos %>% 
+    ggplot(aes(x = Data, y = VolumePercentual, group = id)) + 
+    geom_point(aes(colour = delta < 0), size = .5, alpha = 0.2) + 
+    geom_line(colour = "grey", size = .4, alpha = .2) + 
+    facet_grid(sofrendo ~ .)
+ggplotly(h2)
+```
+
+```{r}
+decidas = historicos %>% 
+    group_by(id) %>% 
+    arrange(Data) %>% 
+    filter(delta < 0 | 
+               lead(delta) < 0 | 
+               (lead(delta) == 0 & delta < 0) | 
+               (delta == 0 & lag(delta) <0)) 
+
+decidas = decidas %>% 
+    group_by(id) %>% 
+    arrange(Data) %>% 
+    mutate(inicio = (Data == first(Data)) | 
+               delta > 0 |  
+               as.period(Data - lag(Data)) > days(60), 
+           fim = (Data == last(Data)) | lead(delta) > 0)  %>% 
+    ungroup() %>% 
+    arrange(id, Data) %>% 
+    mutate(sequencia = cumsum(inicio)) %>% 
+    filter(abs(delta) < 100)
+
+d = decidas %>% 
+    ggplot(aes(x = Data, y = VolumePercentual, group = sequencia)) + 
+    geom_line(colour = "grey", size = .5, alpha = .4) + 
+    facet_grid(sofrendo ~ .)
+ggplotly(d)
+
+d2 = decidas %>% 
+    ggplot(aes(x = Data, y = delta, group = sequencia)) + 
+    geom_line(colour = "grey", size = .5, alpha = .4) + 
+    facet_grid(sofrendo ~ .)
+ggplotly(d2)
+```
+
+```{r}
+sumario = decidas %>% 
+    group_by(sequencia) %>% 
+    filter(Data == first(Data) | Data == last(Data)) %>% 
+    filter(n() == 2)
+
+sumario %>% 
+    select(id, Data, Volume, VolumePercentual, sofrendo, sequencia) %>% 
+    write_csv("../olhonagua/periodos_de_consumo.csv")
+```
+
+
+TODO: Streamgraph
+
 ```{r}
 
 ```
