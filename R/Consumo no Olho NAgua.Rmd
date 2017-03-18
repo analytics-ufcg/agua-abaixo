@@ -16,9 +16,13 @@ source("olhonagua-lib.R")
 abastecimento = load_abastecimento("../olhonagua/abastecimento_municipio.csv") %>% 
     mutate(id_num = as.numeric(COD_ANA)) %>% 
     filter(!is.na(id_num)) # TODO : Resolver municípios com COD / COD
-historicos = get_todos_repositorios(abastecimento$COD_ANA)
-readr::write_csv(historicos, "../olhonagua/historicos_reservatorios.csv")
 
+# Para obter os históricos da API do Olho N'Água:
+#historicos = get_repositorios(unique(abastecimento$id_num))
+#readr::write_csv(historicos, "../olhonagua/historicos_reservatorios.csv")
+
+# Para reutilizar os dados:
+historicos = read_csv("../olhonagua/historicos_reservatorios.csv")
 ```
 ```{r}
 

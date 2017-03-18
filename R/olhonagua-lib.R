@@ -13,6 +13,9 @@ get_repositorio <- function(id){
     json = fromJSON(paste0("https://wwws-cloud.lsd.ufcg.edu.br:42160/api/reservatorios/", 
                            id, 
                            "/monitoramento"))$volumes 
+    if(length(json) == 0){ # Não havia dados
+        return(NULL)
+    }
     serie = json %>% 
         mutate(Data = dmy(DataInformacao), 
                Ano = year(Data), 
@@ -28,15 +31,17 @@ get_repositorio <- function(id){
     return(serie)
 }
 
-get_todos_repositorios <- function(id_vec){
+get_repositorios <- function(ids){
     repositorios = NULL
-    for(id in as.numeric(ids)){
+    for(id in ids){
         print(id)
         serie = get_repositorio(id)
-        if(is.null(repositorios)){
+        if(is.null(repositorios) & !is.null(serie)){
             repositorios = serie
-        }else{
+        } else if(!is.null(serie)){
             repositorios = rbind(repositorios, serie) 
+        } else { 
+            print(paste("Sem dados para id=", id))
         }
     }
     return(repositorios)
