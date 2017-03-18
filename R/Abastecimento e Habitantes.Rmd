@@ -1,0 +1,28 @@
+---
+title: "Abastecimento e Habitantes"
+output: html_document
+---
+
+```{r}
+library(dplyr, warn.conflicts = FALSE)
+```
+
+```{r}
+
+abastecimento = read.csv('../ana/abastecimento_municipio.csv', fileEncoding = "utf-8")
+info_gerais = read.csv('../snis/informacoes_gerais.csv', fileEncoding = "utf-8")
+
+info_gerais_ultimas = filter(info_gerais, Ano.de.Referência == max(Ano.de.Referência))
+comparacao = full_join(info_gerais_ultimas, abastecimento, by = c("Código.do.Município" = "GEOCODIGO"))
+k = rename(comparacao,
+   Geocodigo = Código.do.Município,
+   Municipio = Município,
+   Estado = Estado,
+   Pop_total = POP_TOT...População.total.do.município..Fonte..IBGE....Habitantes.,
+   Pop_urbana_total = POP_URB...População.urbana.do.município..Fonte..IBGE...Habitantes.
+)
+
+ result = select(k, Geocodigo, Municipio, Estado, Pop_total, Pop_urbana_total)
+ 
+ write.csv(result, file = "populacao_municipios.csv")
+```
