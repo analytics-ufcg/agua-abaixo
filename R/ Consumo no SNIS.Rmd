@@ -1,0 +1,31 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(dplyr, warn.conflicts = FALSE)
+library(ggplot2)
+source("snis_lib.R")
+```
+
+
+```{r}
+consumo = load_snis("../snis") %>% 
+    select(codigo = `Código.do.Município`, 
+           municipio = `Município`, 
+           estado = `Estado`, 
+           ano = `Ano.de.Referência`,
+           populacao = `AG010...Volume.de.água.consumido..1000.m..ano.`, 
+           populacao_abastecida = `AG026...População.urbana.atendida.com.abastecimento.de.água..Habitantes.`, 
+           populacao_total_ibge = `POP_TOT...População.total.do.município.do.ano.de.referência..Fonte..IBGE....Habitantes.`, 
+           populacao_urbana_ibge = `POP_URB...População.urbana.do.município.do.ano.de.referência..Fonte..IBGE....Habitantes.`)
+```
+
+```{r}
+hoje = consumo %>% 
+    group_by(codigo, municpio, estado) %>% 
+    filter(ano == max(ano))
+ggplot()
+```
+
