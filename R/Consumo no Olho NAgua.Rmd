@@ -1,0 +1,30 @@
+---
+title: "Consumo segundo o Olho N'Água"
+output: html_notebook
+---
+
+```{r}
+library(dplyr, warn.conflicts = FALSE)
+library(ggplot2)
+library(jsonlite)
+library(lubridate)
+source("olhonagua-lib.R")
+```
+
+
+```{r}
+abastecimento = load_abastecimento("../olhonagua/abastecimento_municipio.csv") %>% 
+    mutate(id_num = as.numeric(COD_ANA)) %>% 
+    filter(!is.na(id_num)) # TODO : Resolver municípios com COD / COD
+
+# Para obter os históricos da API do Olho N'Água:
+#historicos = get_repositorios(unique(abastecimento$id_num))
+#readr::write_csv(historicos, "../olhonagua/historicos_reservatorios.csv")
+
+# Para reutilizar os dados:
+historicos = read_csv("../olhonagua/historicos_reservatorios.csv")
+```
+```{r}
+
+```
+

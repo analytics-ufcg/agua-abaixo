@@ -9,7 +9,7 @@ library(dplyr, warn.conflicts = FALSE)
 
 ```{r}
 
-abastecimento = read.csv('../ana/abastecimento_municipio.csv', fileEncoding = "utf-8")
+abastecimento = read.csv('../olhonagua/abastecimento_municipio.csv', fileEncoding = "utf-8")
 info_gerais = read.csv('../snis/informacoes_gerais.csv', fileEncoding = "utf-8")
 
 info_gerais_ultimas = filter(info_gerais, Ano.de.Referência == max(Ano.de.Referência))

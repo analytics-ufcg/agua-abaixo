@@ -24,8 +24,26 @@ consumo = load_snis("../snis") %>%
 
 ```{r}
 hoje = consumo %>% 
-    group_by(codigo, municpio, estado) %>% 
+    group_by(codigo, municipio, estado) %>% 
     filter(ano == max(ano))
-ggplot()
+
+summary(hoje)
+
+hoje %>% 
+    ggplot(aes(x = populacao)) + 
+    geom_freqpoly()
+```
+
+Qual a diferença entre as variáveis de população?
+
+```{r}
+hoje %>% 
+    transmute(razao_abastecida = populacao_abastecida/populacao, 
+              razao_total_ibge = populacao_total_ibge / populacao) %>% 
+    summary()
+
+hoje %>% 
+    ggplot(aes(x = populacao_abastecida/populacao)) + 
+    geom_freqpoly()
 ```
 
