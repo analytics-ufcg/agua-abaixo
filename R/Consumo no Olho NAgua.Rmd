@@ -67,8 +67,7 @@ sumario %>%
 
 
 ```{r}
-consumos = read_csv("../olhonagua/periodos_de_consumo.csv")
-
+consumos = read_csv("../olhonagua/periodos_de_consumo.csv") %>% 
 ```
 
 

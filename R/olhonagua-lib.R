@@ -102,6 +102,17 @@ get_consumo <- function(reservatorio, sumario){
     return(r)
 }
 
+get_consumos <- function(sumario){
+    sumario %>% 
+        arrange(id, sequencia, Data) %>% 
+        group_by(sequencia) %>% 
+        mutate(delta = c(diff(Volume)[1], diff(Volume)), 
+               dias = c(30, diff(Data)),
+               consumo = abs(delta)/dias * 1e9) %>%
+    return()
+}
+
+
 # snis %>% filter(municipio == "Campina Grande", ano >= 2012) %>% mutate(consumo.pc = consumo * 1e6 / 365 / populacao_total_ibge) %>% View()
 
 ver_consumo <- function(reservatorio, sumario, populacao = 5e5){
