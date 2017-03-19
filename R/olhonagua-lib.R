@@ -88,14 +88,28 @@ cria_seqs_inicio_fim <- function(decidas){
         return()
 }
 
-get_consumo_recente <- function(reservatorio, sumario){
+get_consumo <- function(reservatorio, sumario){
     library(zoo)
     r = sumario %>% 
         filter(id == reservatorio) %>% 
         arrange(Data) %>% 
         group_by(sequencia) %>% 
-        mutate(delta = c(0, diff(Volume)), 
-               dias = c(0, diff(Data)),
-               consumo = ifelse(dias == 0, 0, abs(delta)/dias),
-               consumo.r = rollmean(x = consumo, 6, na.pad = TRUE, fill = NA))
+        mutate(delta = c(diff(Volume)[1], diff(Volume)), 
+               dias = c(30, diff(Data)),
+               consumo = ifelse(dias == 0, 0, abs(delta)/dias) * 1e9, # converte para litros
+               consumo.r = rollmeanr(x = consumo, 2, na.pad = T, fill = NA, align = "right")
+               )
+    return(r)
 }
+
+# snis %>% filter(municipio == "Campina Grande", ano >= 2012) %>% mutate(consumo.pc = consumo * 1e6 / 365 / populacao_total_ibge) %>% View()
+
+ver_consumo <- function(reservatorio, sumario, populacao = 5e5){
+    get_consumo(reservatorio, sumario) %>% 
+        ggplot(aes(x = Data, y = abs(consumo.r) / populacao)) + 
+        geom_point(colour = "darkred", size = 1.5, alpha = 1) + 
+        geom_smooth() + 
+        labs(x = "Mês", y = "Consumo estimado (litros por pessoa por dia)") %>% 
+        return()
+} # 12262
+
