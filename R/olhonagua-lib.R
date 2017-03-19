@@ -117,9 +117,10 @@ get_consumos <- function(sumario){
 
 ver_consumo <- function(reservatorio, sumario, populacao = 5e5){
     get_consumo(reservatorio, sumario) %>% 
-        ggplot(aes(x = Data, y = abs(consumo) / populacao)) + 
-        geom_smooth() + 
-        geom_point(colour = "darkred", size = 1.5, alpha = 1) + 
+        mutate(`Consumo pessoa/dia` = abs(consumo) / populacao) %>% 
+        ggplot(aes(x = Data, y = `Consumo pessoa/dia`)) + 
+        geom_smooth(method = "loess", se = F, colour = "#abd9e9", size =2 ) + 
+        geom_point(colour = "#d7191c", size = 1.5, alpha = 1) + 
         labs(x = "Mês", y = "Consumo estimado (litros por pessoa por dia)") %>% 
         return()
 } # 12262
