@@ -1,0 +1,11 @@
+name: me-poupe
+title: me-poupe
+account: nazareno
+server: shinyapps.io
+appId: 165077
+bundleId: 753530
+url: https://nazareno.shinyapps.io/me-poupe/
+when: 1489952885.14719
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: R/ Consumo no SNIS.nb.html|R/ Consumo no SNIS.Rmd|R/Consumo no Olho NAgua.nb.html|R/Consumo no Olho NAgua.Rmd
