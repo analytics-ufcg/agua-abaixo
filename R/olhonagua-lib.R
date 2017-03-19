@@ -96,8 +96,8 @@ get_consumo <- function(reservatorio, sumario){
         group_by(sequencia) %>% 
         mutate(delta = c(diff(Volume)[1], diff(Volume)), 
                dias = c(30, diff(Data)),
-               consumo = ifelse(dias == 0, 0, abs(delta)/dias) * 1e9, # converte para litros
-               consumo.r = rollmeanr(x = consumo, 2, na.pad = T, fill = NA, align = "right")
+               consumo = abs(delta)/dias * 1e9 # converte para litros
+               #,consumo.r = rollmeanr(x = consumo, 2, na.pad = T, align = "right")
                )
     return(r)
 }
@@ -106,9 +106,9 @@ get_consumo <- function(reservatorio, sumario){
 
 ver_consumo <- function(reservatorio, sumario, populacao = 5e5){
     get_consumo(reservatorio, sumario) %>% 
-        ggplot(aes(x = Data, y = abs(consumo.r) / populacao)) + 
-        geom_point(colour = "darkred", size = 1.5, alpha = 1) + 
+        ggplot(aes(x = Data, y = abs(consumo) / populacao)) + 
         geom_smooth() + 
+        geom_point(colour = "darkred", size = 1.5, alpha = 1) + 
         labs(x = "Mês", y = "Consumo estimado (litros por pessoa por dia)") %>% 
         return()
 } # 12262
