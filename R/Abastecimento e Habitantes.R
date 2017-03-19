@@ -1,7 +1,7 @@
-populacao <- function(){
+populacao <- function(file_path_abastecimento_municipio, file_path_informacoes_gerais){
   library(dplyr, warn.conflicts = FALSE)
-  abastecimento = read.csv('../olhonagua/abastecimento_municipio.csv', fileEncoding = "utf-8")
-  info_gerais = read.csv('../snis/informacoes_gerais.csv', fileEncoding = "utf-8")
+  abastecimento = read.csv(file_path_abastecimento_municipio, fileEncoding = "utf-8")
+  info_gerais = read.csv(file_path_informacoes_gerais, fileEncoding = "utf-8")
   
   info_gerais_ultimas = filter(info_gerais, Ano.de.Referência == max(Ano.de.Referência))
   abastecimento$GEOCODIGO1 <- as.numeric(substr(abastecimento$GEOCODIGO,0,6))
